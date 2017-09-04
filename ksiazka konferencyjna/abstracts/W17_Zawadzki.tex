@@ -1,0 +1,65 @@
+\providecommand{\main}{..} 
+\documentclass[\main/boa.tex]{subfiles}
+
+\begin{document}
+
+\section{Kiedy brakuje wydajności... R i C++ = Rcpp}
+
+\begin{minipage}{0.915\textwidth}
+\centering
+{\bf \index[a]{Zawadzki Zygmunt} Zygmunt Zawadzki}
+\end{minipage}
+
+\vskip 0.3cm
+
+\begin{affiliations}
+\begin{minipage}{0.915\textwidth}
+\centering
+\large zstat  \\[2pt]
+\end{minipage}
+\end{affiliations}
+
+\vskip 0.8cm
+
+\opiswarsztatu Celem warsztatu jest nauczenie użytkowników wykorzystania pakietu Rcpp pozwalającego wykorzystać kod C++ w R w celu przyspieszenia krytycznych fragmentów obliczeń.
+
+Uczestnik po skończonym warsztacie będzie potrafił:
+\begin{enumerate}
+\item przedstawić różnice w modelu zarządzania pamięcią w R i C++ i omówić konsekwencje które się z tym wiążą.
+\item stworzyć prosty pakiet R wykorzystujący kod C++.
+\item wykorzystać pakiet profvis do wyszukania najbardziej gorącego fragmentu kodu, który potencjalnie mógłby zostać przepisany z wykorzystaniem Rcpp.
+\end{enumerate}
+
+\planwarsztatu 
+Wprowadzenie do Rcpp: Część I:
+\begin{enumerate}
+\item Kompilacja pierwszej funkcji wykorzystującej C++ w R.
+\item Omówienie różnic pomiędzy językiem interpretowanym i kompilowanym na przykładzie R i Rcpp.
+\item Szczegółowe omówienie struktur R dostępnych w C++ (NumericVector i NumericMatrix)
+\item Przedstawienie STL - standardowej biblioteki szablonów jako dodatkowych struktur danych gotowych do wykorzystania.
+\item Praktyczne prezentacja modeli zarządzania pamięcią w C++ - stworzenie kilku mini-funkcji prezentujących możliwe konsekwencje błędnej interakcji R i C++.
+\end{enumerate}	 
+Część II:
+\begin{enumerate}
+\item Profilowanie kodu z wykorzystaniem Rprof.
+\item Wprowadzenie biblioteki RcppArmadillo do obliczeń macierzowych w C++.
+\item Stworzenie prostego samplera Gibbsa wykorzystującego RcppArmadillo i funkcje R dostępne po stronie C++.
+\end{enumerate}
+
+\pakiety Rcpp, RcppArmadillo, profvis
+
+\umiejetnosci Podstawy programowania w R:
+\begin{enumerate}
+	\item operacje na macierzach.
+	\item pętle for.
+\end{enumerate}
+Znajomość C++ nie jest wymagana. Wszystkie potrzebne informacje dotyczące tego języka zostaną omówione w trakcie warsztatów.
+
+\wymagania W przypadku systemu Windows pobranie i instalacja: Rtools - najnowsza wersja (https://cran.r-project.org/bin/windows/Rtools/)
+
+Linux: wszystko powinno być zainstalowane (potrzebny jest kompilator gcc z obsługą standardu C++11 - jednak wszystkie w miarę nowe wersje powinny go mieć).
+
+Mac: zainstalowane XCode.
+
+
+\end{document}

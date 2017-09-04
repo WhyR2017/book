@@ -1,0 +1,71 @@
+\providecommand{\main}{..} 
+\documentclass[\main/boa.tex]{subfiles}
+
+\begin{document}
+
+\section{Złożone schematy doboru próby - pakiet survey}
+
+\begin{minipage}{0.915\textwidth}
+\centering
+{\bf \index[a]{Żółtak Tomasz} Tomasz Żółtak}
+\end{minipage}
+
+\vskip 0.3cm
+
+\begin{affiliations}
+\begin{minipage}{0.915\textwidth}
+\centering
+\large Instytut Badań Edukacyjnych  \\[2pt]
+\end{minipage}
+\end{affiliations}
+
+\vskip 0.8cm
+
+\opiswarsztatu Duża część dostępnych powszechnie danych z badań sondażowych pochodzi z projektów, w których wykorzystywane są złożone schematy doboru prób badawczych. W szczególności dotyczy to międzynarodowych badań porównawczych w dziedzinie edukacji (np. TIMSS, PIRLS, PISA, PIAAC) czy nauk społecznych (np. ESS), ale też badań dotyczących zdrowotności i epidemiologii. Analiza tych danych przy pomocy klasycznie wykorzystywanych technik, zakładających, że próba została dobrana w sposób prosty, może prowadzić do błędnych wniosków, w szczególności w zakresie wielkości błędów standardowych (a w konsekwencji istotności statystycznych). Zasadniczym celem warsztatu jest zapoznanie uczestników z możliwościami pakietu „survey”, który umożliwia analizę tego rodzaju danych w R z wykorzystaniem technik adekwatnych do prób dobranych w sposób złożony: z wykorzystaniem stratyfikacji, doboru wielostopniowego, czy zespołowego.
+
+\planwarsztatu
+\begin{enumerate}
+\item Złożone schematy doboru prób badawczych – jak i po co się to robi?
+\begin{enumerate}
+	\item Typowe złożone schematy doboru próby: stratyfikacja, dobór zespołowy i wielostopniowy.
+	\item Przykłady projektów badawczych, w których wykorzystywane są złożone schematy doboru próby.
+    \item Estymacja wariancji estymatorów z wykorzystaniem linearyzacji Taylora i z wykorzystaniem technik replikacyjnych: podstawowe pojęcia i założenia oraz ich najważniejsze implikacje praktyczne.
+\end{enumerate}
+\item Pakiet „survey” - jego możliwości i ograniczenia.
+\begin{enumerate}
+	\item Co możemy zrobić z pakietem „survey”.
+	\item Inne możliwości ale w specyficznych zastosowaniach: pakiety „intsvy” i „lavaan.survey”.
+\end{enumerate}
+\item Definiowanie typowych złożonych schematów doboru próby w pakiecie „survey”.
+\item Estymacja typowych statystyk opisowych.
+\begin{enumerate}
+	\item Średnie, wariancje, kwantyle (i sumy populacyjne!).
+\end{enumerate}
+\item Przerwa.
+\item Wizualizacja danych przy pomocy pakietów „survey” i „ggplot2”.
+\begin{enumerate}
+	\item Funkcje graficzne pakietu „survey”.
+	\item Wykorzystywanie wag w pakiecie „ggplot2”.
+\end{enumerate}
+\item Regresja liniowa i uogólniona regresja liniowa.
+\begin{enumerate}
+	\item Jak korzystać z funkcji ‘svyglm()’?
+	\item A co z liczeniem korelacji?
+	\item W jakich sytuacjach warto uwzględniać złożony schemat doboru próby przy prowadzeniu analizy regresji?
+\end{enumerate}
+\item Poststratyfikacja i techniki pokrewne (jeśli ktoś jest zainteresowany, może rzucić okiem na tą prezentację).
+\begin{enumerate}
+	\item Co to znaczy, że próba jest reprezentatywna? (Bardzo możliwe, że nie to, czego się spodziewasz!)
+	\item Definiowanie wag poststratyfikacyjnych w pakiecie „survey”.
+	\item Kiedy warto używać poststratyfikacji, a kiedy lepiej tego nie robić?
+\end{enumerate}	 
+\end{enumerate}
+W czasie warsztatu wykorzystywane będą dane z Europejskiego Sondażu Społecznego i badań PISA.
+
+\pakiety survey, ggplot2
+
+\umiejetnosci Podstawowe umiejętności w zakresie przetwarzania i analizy danych w R (operacje na ramkach danych, obliczanie statystyk opisowych, estymacja modeli regresji). Podstawowa wiedza na temat wnioskowania statystycznego (estymacja średniej populacyjnej na podstawie prostej próby losowej).
+
+\wymagania Instalacja pakietów survey i ggplot2.
+
+\end{document}

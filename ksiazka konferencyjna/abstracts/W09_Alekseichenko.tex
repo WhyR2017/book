@@ -1,0 +1,66 @@
+\providecommand{\main}{..} 
+\documentclass[\main/boa.tex]{subfiles}
+
+\begin{document}
+
+\section{XGBoost rządzi}
+
+\begin{minipage}{0.915\textwidth}
+\centering
+{\bf \index[a]{Alekseichenko Vladimir} Vladimir Alekseichenko}
+\end{minipage}
+
+\vskip 0.3cm
+
+\begin{affiliations}
+\begin{minipage}{0.915\textwidth}
+\centering
+\large General Electric \\[2pt]
+\end{minipage}
+\end{affiliations}
+
+\vskip 0.8cm
+
+\opiswarsztatu XGBoost to jest jedna najlepszych implementacji "Gradient Boosting" z punktu widzenia praktycznego.9
+Dlaczego warto?
+\begin{enumerate}
+	\item Wynik (czyli zwykle jeden z najlepszych)
+	\item Czas na naukę i predykcję (potrafi używać wszystkie dostępne rdzenie)
+	\item Odporność na przeuczenia się (poprzez różne parametry regularyzacji)
+	\item Stabilność (można spokojnie używać na produkcje)
+\end{enumerate}
+
+\planwarsztatu
+\begin{enumerate}
+\item Zrozumienie biznes problemu
+\item Zrozumienie danych
+\item Budowa bardzo prostego modelu (base-line)
+\item Przypomnienie co to jest drzewa decezyjne
+\item Uruchomienie prostego modelu xgboost
+\item Generowanie cech (feature engineering)
+\item Budowanie bardziej zaawansowanego modelu
+\item Optymalizacja hyperparametrów
+\item Inne (zaawansowane) triki (opcjonalnie)
+\end{enumerate}	 
+
+\pakiety xgboost, data.table, e1071, caret, rBayesianOptimization
+
+\umiejetnosci Warsztat może być ciekawy dla osób które dopiero zaczynają, jak i dla średnio-zaawansowanych (z mojej wiedzy mało osób kojarzy i tym bardziej używa XGBoost w praktyce, chociaż to zmienia się bardzo szybko w czasie).
+Natomiast warto rozumieć podstawy:
+\begin{enumerate}
+	\item uczenie maszynowe (machine learning)
+	\item cechy (features)
+	\item model, np. liniowy
+	\item przeuczenie się (overfitting)
+	\item walidacja (model evaluation)
+\end{enumerate}
+Fajnie będzie jeżeli sprawdzisz (przypomnisz) jak działają drzewa decezyjne (decision trees).
+
+\wymagania 
+\begin{enumerate}
+\item Mieć laptop z potrzebnymi pakietami (przede wszystkim xgboost)
+\item Pobrać dane z Kaggle
+\item Pomyśleć nad problemem przed warsztatem (może nawet spróbować go rozwiązać w najlepszy możliwy sposób - użyć dowolny model, który się zna)
+\end{enumerate}
+
+\end{document}

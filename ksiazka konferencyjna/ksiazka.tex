@@ -1,0 +1,266 @@
+\documentclass[11pt,twoside,b5paper]{book}
+
+\usepackage[b5paper,margin=2cm,innermargin=2cm]{geometry}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancypagestyle{mainmatter}{
+\rhead{Why R? 2017}
+\lhead{Książka konferencyjna}
+\rfoot{\thepage}
+}
+
+\usepackage{emptypage}
+
+\usepackage{subfiles}
+\usepackage{hyperref}
+\usepackage{titlesec}
+
+\usepackage{longtable} 
+\usepackage{pdflscape} 
+\usepackage{afterpage}
+
+\usepackage{imakeidx}
+\makeindex[name=a,title=Indeks nazwisk,intoc=true]
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{eurosym}
+\usepackage{amsfonts, amsmath, hanging, hyperref, parskip, times}
+\usepackage[numbers]{natbib}
+\usepackage[pdftex]{graphicx}
+\hypersetup{
+	colorlinks,
+	linkcolor=black,
+	urlcolor=black,
+	citecolor=black
+}
+
+\usepackage{pdfpages}
+
+%\let\section=\subsubsection
+\newcommand{\pkg}[1]{{\normalfont\fontseries{b}\selectfont #1}}
+\let\proglang=\textit
+\let\code=\texttt
+\newcommand{\atitle}[1]{\begin{center}{\bf \LARGE #1}\end{center}}
+\newcommand{\affiliations}{\footnotesize\centering}
+\newcommand{\keywords}{\paragraph{Keywords:}}
+\newcommand{\opiswarsztatu}{\paragraph{Opis warsztatu\\}\noindent \small}
+\newcommand{\planwarsztatu}{\paragraph{Plan warsztatu}\small}
+\newcommand{\pakiety}{\paragraph{Wymagane pakiety\\}\noindent \small}
+\newcommand{\umiejetnosci}{\paragraph{Wymagane od uczestników umiejętności i wiedza\\}\noindent \small}
+\newcommand{\wymagania}{\paragraph{Wymagania wstępne do wykonania przed warsztatem\\}\noindent \small}
+\newcommand{\packages}{\paragraph{R packages:}}
+
+\usepackage{titlesec}
+\titleformat{\chapter}[display]   
+{\normalfont\Huge\bfseries}{\chaptertitlename\ \thechapter}{80pt}{\huge}   
+\titlespacing*{\chapter}{0pt}{0pt}{0pt}
+
+\providecommand{\tightlist}{%
+	\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% \setlength{\topmargin}{-25mm}
+\setlength{\oddsidemargin}{-2mm}
+% \setlength{\textwidth}{165mm}
+% \setlength{\textheight}{250mm}
+
+\titleformat{\chapter}[display]
+{\normalfont\bfseries}{}{0pt}{\huge}
+
+\titleformat{\section}[block]
+{\huge\bfseries}{}{0pt}{\titlerule\\}[\vspace{2pt}\titlerule]
+
+%\titleformat{\section}[block]
+%{\Large\bfseries\filcenter}{}{1em}{}
+
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{3}
+
+\title{Konferencja Why R?}
+\author{Warszawa, 27-29 września 2017}
+\date{}
+
+\begin{document}
+
+\includepdf{figs/okladka.pdf}
+% \cleardoublepage
+
+\clearpage
+
+\frontmatter
+\maketitle
+
+\begin{small}
+\tableofcontents
+\end{small}
+
+\mainmatter
+
+\chapter{Komitet organizacyjny}
+
+\textbf{Marcin Kosiński (Przewodniczący), \textit{Gradient}}
+
+Olga Sulima, \textit{Appsilon}
+
+Przemysław Biecek, \textit{Wydział Matematyki, Informatyki i Mechaniki, Uniwersytet Warszawski}, \textit{Wydział Matematyki i Nauk Informacyjnych, Politechnika Warszawska} 
+
+Bartosz Sękiewicz, \textit{HTA Consulting}
+
+Maciej Beręsewicz, \textit{Uniwersytet Ekonomiczny w Poznaniu}
+
+Adolfo Alvarez, \textit{Uniwersytet Adama Mickiewicza w Poznaniu}, \textit{University of Cincinnati}
+
+Alicja Gosiewska, \textit{Wydział Matematyki i Nauk Informacyjnych, Politechnika Warszawska}
+
+Aleksandra Dąbrowska, \textit{Wydział Matematyki, Informatyki i Mechaniki, Uniwersytet Warszawski}
+
+Monika Stępień, \textit{Wydział Biologii, Uniwersytet Warszawski}
+
+Agnieszka Dumania, \textit{SalesBI}
+
+Anna Rybińska, \textit{Uniwersytet Gdański}
+
+Bartłomiej Tartanus, \textit{OSA/Sages}
+
+Krzysztof Słomczyński, \textit{}
+
+Emil Buszyło, \textit{Maxus Net Communication}
+
+Konrad Więcko, \textit{Samsung}
+
+\chapter{Wstęp}
+\input{misc/wstep.tex}
+
+\chapter{Plan}
+
+\chapter{Wykłady plenarne}{}
+\subfile{abstracts/01_Biecek.tex}
+\newpage
+\subfile{abstracts/02_Bogdan.tex}
+\newpage
+\subfile{abstracts/03_Brzezinska.tex}
+\newpage
+\subfile{abstracts/04_Burzykowski.tex}
+\newpage
+\subfile{abstracts/05_Eder.tex}
+\newpage
+\subfile{abstracts/06_Jakuczun.tex}
+\newpage
+\subfile{abstracts/07_Ramsza.tex}
+\newpage
+\subfile{abstracts/08_Suchwalko.tex}
+\newpage
+\subfile{abstracts/09_Szczurek.tex}
+\newpage
+\subfile{abstracts/10_Wroblewska.tex}
+
+\chapter{Sesje}{\LARGE}
+\section{Tidyverse}{}
+\subfile{abstracts/T01_Mierzwa.tex}
+\subfile{abstracts/T02_Rogala.tex}
+\subfile{abstracts/T03_Mlodozeniec.tex}
+\subfile{abstracts/T04_Potocka.tex}
+\subfile{abstracts/T05_Sobczyk.tex}
+
+\section{PwC}
+
+
+\section{Statystyka}
+\subfile{abstracts/MS01_Wojcik.tex}
+\subfile{abstracts/MS02_Dyderski.tex}
+\subfile{abstracts/MS03_Nowacki.tex}
+\subfile{abstracts/MS04_Slomczynski.tex}
+\subfile{abstracts/MS05_Grala.tex}
+
+\section{Modelowanie Ryzyka}
+
+
+\section{Biostatystyka}
+\subfile{abstracts/BIO01_Stankiewicz.tex}
+\subfile{abstracts/BIO02_Gosiewska.tex}
+\subfile{abstracts/BIO03_Dabrowska.tex}
+\subfile{abstracts/BIO04_Kosinski.tex}
+\subfile{abstracts/BIO05_Oles.tex}
+
+\section{Biznes}
+\subfile{abstracts/BIZ01_Olszewski.tex}
+\subfile{abstracts/BIZ02_Skrzydlo.tex}
+\subfile{abstracts/BIZ03_Zoltak.tex}
+\subfile{abstracts/BIZ04_Jedrzejewski.tex}
+\subfile{abstracts/BIZ05_Martsenyuk.tex}
+
+\section{Społeczności}
+
+
+\section{R w działaniu}
+\subfile{abstracts/R01_Potocka.tex}
+\subfile{abstracts/R02_Melcer.tex}
+\subfile{abstracts/R04_Bigos.tex}
+\subfile{abstracts/R05_Kochanski.tex}
+
+\chapter{Lightning Talks}{\LARGE \textit{Sala 107 - Chairman: Marcin Kosiński}}
+\subfile{abstracts/L01_Chmura.tex}
+\subfile{abstracts/L02_Czernecki.tex}
+\subfile{abstracts/L03_Bielski.tex}
+\subfile{abstracts/L04_Otmianowski.tex}
+\subfile{abstracts/L05_Lodzikowski.tex}
+\subfile{abstracts/L06_Staniak.tex}
+
+\chapter{Sesja plakatowa}{\LARGE \textit{Aula Gmachu Fizyki PW}}
+\subfile{abstracts/P01_Pawlik.tex}
+\subfile{abstracts/P02_Czortek.tex}
+\subfile{abstracts/P03_Pawlowska.tex}
+\subfile{abstracts/P04_Cieslak.tex}
+\subfile{abstracts/P05_Wierzcholska.tex}
+
+\chapter{Warsztaty}{}
+\subfile{abstracts/W01_Szklarczyk.tex}
+\newpage
+\subfile{abstracts/W02_Zoltak.tex}
+\newpage
+\subfile{abstracts/W03_Sekiewicz.tex}
+\newpage
+\subfile{abstracts/W04_Mazurek.tex}
+\newpage
+\subfile{abstracts/W05_Grala.tex}
+\newpage
+\subfile{abstracts/W06_Detko.tex}
+\newpage
+\subfile{abstracts/W07_Maj.tex}
+\newpage
+\subfile{abstracts/W08_Zawistowski.tex}
+\newpage
+\subfile{abstracts/W09_Alekseichenko.tex}
+\newpage
+\subfile{abstracts/W10_Teisseyre.tex}
+\newpage
+\subfile{abstracts/W11_Ocalewicz.tex}
+\newpage
+\subfile{abstracts/W12_Cwiakowski.tex}
+\newpage
+\subfile{abstracts/W13_Dyderski.tex}
+\newpage
+\subfile{abstracts/W14_Migdal.tex}
+\newpage
+\subfile{abstracts/W15_Wojtasiewicz.tex}
+\newpage
+\subfile{abstracts/W16_Ryciak.tex}
+\newpage
+\subfile{abstracts/W17_Zawadzki.tex}
+\newpage
+\subfile{abstracts/W18_Tartanus.tex}
+
+\backmatter
+\small \printindex[a]
+
+\clearpage\phantom{}
+ \thispagestyle{empty}
+\clearpage\phantom{}
+ \thispagestyle{empty}
+
+\includepdf{figs/okladka.pdf}
+
+\end{document}

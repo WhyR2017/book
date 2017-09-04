@@ -1,0 +1,30 @@
+\providecommand{\main}{..} 
+\documentclass[\main/boa.tex]{subfiles}
+
+\begin{document}
+
+\subsection{Jak zbudowaliśmy aplikację Shiny dedykowaną 700 użytkownikom?}
+
+\begin{minipage}{0.915\textwidth}
+	\centering
+  {\bf \index[a]{Mierzwa Olga} Olga Mierzwa}
+\end{minipage}
+
+\vskip 0.3cm
+
+\begin{affiliations}
+\begin{minipage}{0.915\textwidth}
+\centering
+Appsilon \\[-2pt]
+\end{minipage}
+\end{affiliations}
+
+\vskip 0.8cm
+
+ Shiny jako technologia udowodniła, że jest świetnym narzędziem za pomocą, którego zespoły data science mogą komunikować swoje rezultaty. Jednak stworzenie aplikacji w Shiny, która będzie wykorzystywana przez dziesiątki użytkowników nie jest prostym zadaniem. Pierwsze wyzwanie to stworzenie interfejsu użytkownika, który swoim wyglądem nie odbiega od współczesnych rozwiązań. Następnie aplikacja powinna działać wydajnie, co nie raz jest trudne do zapewniania, gdy wzrasta zarówno logika biznesowa i liczba użytkowników.
+ 
+ Celem tej prezentacji jest podzielenie się doświadczeniami jakie nasz zespół data science zdobył budując aplikację obecnie wykorzystywaną przez 700 użytkowników. Skala aplikacji jest jednym z największym produkcyjnych wdrożeń Shiny-ego.
+ 
+ Przedstawimy innowacyjne podejście do tworzenia pięknych i nowoczesnych interfejsów użytkownika za pomocą biblioteki shiny.semantic (alternatywy do obecnego Bootstrapa). Kolejno pokażemy triki, za pomocą których optymalizowaliśmy wydajność aplikacji. Omówimy wyzwania i przedstawimy rozwiązania w zarządzaniu skomplikowanymi zależnościami zmiennych reaktywnych. Zademonstrujemy aplikację i powiemy jak jej wdrożenie przełożyło się na biznes klienta.
+
+\end{document}

@@ -1,0 +1,45 @@
+\providecommand{\main}{..} 
+\documentclass[\main/boa.tex]{subfiles}
+
+\begin{document}
+
+\section{mirt: skalowanie odpowiedzi lepsze niż PCA}
+
+\begin{minipage}{0.915\textwidth}
+\centering
+{\bf \index[a]{Migdał Piotr} Piotr Migdał}
+\end{minipage}
+
+\vskip 0.3cm
+
+\begin{affiliations}
+\begin{minipage}{0.915\textwidth}
+\centering
+\large deepsense.io, freelancer  \\[2pt]
+\end{minipage}
+\end{affiliations}
+
+\vskip 0.8cm
+
+\opiswarsztatu Item Response Theory jest modelem analizy danych, w której szukamy zmiennej ukrytej wyjaśniającej dane. Np. zamieniamy wiele odpowiedzi z ankiety na jedną zmienną odpowiadającą zadowoleniu klienta, czy też estymujemy pewną cechę charakteru na podstawie kwestionariusza. Innym zastosowaniem jest skalowanie wyników egzaminów w sposób mądrzejszy niż liczenie sumy punktów (nie każde zadanie jest równie trudne, niektóre zadania mogą być losowe).
+
+Typowe sposoby (np. liczenie pierwszej składowej w PCA) nie uwzględniają nieliniowości zmiennych.
+
+Pakiet mirt (Multidimensional Item Response Theory) jest wydajnym i wszechstronnym pakietem do praktycznych zastosowań IRT.
+
+\planwarsztatu
+\begin{enumerate}
+\item wprowadzenie do Item Response Theory
+\item różne modele zmiennych odpowiedzi (też: gradualne)
+\item szukanie zmiennej ukrytej
+\item generowanie sztucznych odpowiedzi
+\item ćwiczenie praktyczne: analiza danych maturalnych
+\end{enumerate}	 
+
+\pakiety mirt, ggplot2, dplyr
+
+\umiejetnosci Podstawy R. Co to jest sigmoida.
+
+\wymagania mirt; RStudio z R Notebook (lub ew. R w Jupyter Notebook)
+
+\end{document}
