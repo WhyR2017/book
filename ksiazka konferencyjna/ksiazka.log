@@ -1,24 +1,13 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.13)  7 SEP 2017 18:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.17)  7 SEP 2017 19:44
 entering extended mode
-**ksiazka.tex
-
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\ksiazka.t
-ex"
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
-Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk11.clo"
-File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+**./ksiazka.tex
+(ksiazka.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo"
+File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -33,22 +22,21 @@ File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -64,8 +52,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip43
@@ -78,11 +66,11 @@ s
 \f@nch@O@olf=\skip50
 \f@nch@O@orf=\skip51
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\emptypage\emptypage.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\emptypage\emptypage.sty"
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
 pages
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip52
 \enit@outerparindent=\dimen111
@@ -90,106 +78,106 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box26
 \enitdp@description=\count91
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfiles\subfiles.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfiles\subfiles.sty"
 Package: subfiles 2012/05/23 Federico Garcia
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
-Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks17
 \verbatim@line=\toks18
 \verbatim@in@stream=\read1
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
-Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
-Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
-Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package hobsub Info: Skipping package `ifvtex' (already loaded).
-Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
-Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
-Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
-Package: xcolor-patch 2011/01/30 xcolor patch
-Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
-Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
-Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen112
 \Hy@linkcounter=\count92
 \Hy@pagecounter=\count93
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count94
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4443.
-Package hyperref Info: Link nesting OFF on input line 4448.
-Package hyperref Info: Hyper index ON on input line 4451.
-Package hyperref Info: Plain pages OFF on input line 4458.
-Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4688.
+Package hyperref Info: Bookmarks ON on input line 4735.
 \c@Hy@tempcnt=\count95
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5041.
+LaTeX Info: Redefining \url on input line 5088.
 \XeTeXLinkMargin=\dimen113
 \Fld@menulength=\count96
 \Field@Width=\dimen114
 \Fld@charsize=\dimen115
-Package hyperref Info: Hyper figures OFF on input line 6295.
-Package hyperref Info: Link nesting OFF on input line 6300.
-Package hyperref Info: Hyper index ON on input line 6303.
-Package hyperref Info: backreferencing OFF on input line 6310.
-Package hyperref Info: Link coloring OFF on input line 6315.
-Package hyperref Info: Link coloring with OCG OFF on input line 6320.
-Package hyperref Info: PDF/A mode OFF on input line 6325.
-LaTeX Info: Redefining \ref on input line 6365.
-LaTeX Info: Redefining \pageref on input line 6369.
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
 \Hy@abspage=\count97
 \c@Item=\count98
 \c@Hfootnote=\count99
@@ -197,19 +185,19 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
-File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
 \Fld@listcount=\count100
 \c@bookmark@seq@number=\count101
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
-Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip53
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box27
 \beforetitleunit=\skip54
@@ -221,8 +209,8 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen119
 \titlewidthfirst=\dimen120
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
-Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip56
 \LTright=\skip57
 \LTpre=\skip58
@@ -239,53 +227,55 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count106
 \LT@p@ftn=\toks20
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
-Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
 \Gread@gobject=\count107
 )))
-Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\afterpage.sty"
-Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\afterpage.sty"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@output=\toks21
 \AP@partial=\box32
 \AP@footins=\box33
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\imakeidx\imakeidx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\imakeidx\imakeidx.sty"
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
 nous mode
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
-Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
 \XKV@toks=\toks22
 \XKV@tempa@toks=\toks23
+)
 \XKV@depth=\count108
-File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
-Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
 \c@tracingmulticols=\count109
 \mult@box=\box34
 \multicol@leftmargin=\dimen122
@@ -302,6 +292,7 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \multicolbaselineskip=\skip61
 \partial@page=\box35
 \last@line=\box36
+\maxbalancingoverflow=\dimen127
 \mult@rightbox=\box37
 \mult@grightbox=\box38
 \mult@gfirstbox=\box39
@@ -325,33 +316,37 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \@tempa=\box57
 \c@columnbadness=\count115
 \c@finalcolumnbadness=\count116
-\last@try=\dimen127
-\multicolovershoot=\dimen128
-\multicolundershoot=\dimen129
+\last@try=\dimen128
+\multicolovershoot=\dimen129
+\multicolundershoot=\dimen130
 \mult@nat@firstbox=\box58
 \colbreak@box=\box59
-\multicol@sort@counter=\count117
+\mc@col@check@num=\count117
 ))
 \a@idxfile=\write3
+\openout3 = `a.idx'.
+
 
 Writing index file a.idx
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2008/03/30 v1.1d Input encoding file
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks24
 \inpenc@posthook=\toks25
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00BB (decimal 187)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C0 (decimal 192)
@@ -416,50 +411,94 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00FD (decimal 253)
    defining Unicode char U+00FE (decimal 254)
    defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
    defining Unicode char U+0102 (decimal 258)
    defining Unicode char U+0103 (decimal 259)
    defining Unicode char U+0104 (decimal 260)
    defining Unicode char U+0105 (decimal 261)
    defining Unicode char U+0106 (decimal 262)
    defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
    defining Unicode char U+010C (decimal 268)
    defining Unicode char U+010D (decimal 269)
    defining Unicode char U+010E (decimal 270)
    defining Unicode char U+010F (decimal 271)
    defining Unicode char U+0110 (decimal 272)
    defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
    defining Unicode char U+0118 (decimal 280)
    defining Unicode char U+0119 (decimal 281)
    defining Unicode char U+011A (decimal 282)
    defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
    defining Unicode char U+011E (decimal 286)
    defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
    defining Unicode char U+0130 (decimal 304)
    defining Unicode char U+0131 (decimal 305)
    defining Unicode char U+0132 (decimal 306)
    defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
    defining Unicode char U+0139 (decimal 313)
    defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
    defining Unicode char U+013D (decimal 317)
    defining Unicode char U+013E (decimal 318)
    defining Unicode char U+0141 (decimal 321)
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0143 (decimal 323)
    defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
    defining Unicode char U+0147 (decimal 327)
    defining Unicode char U+0148 (decimal 328)
    defining Unicode char U+014A (decimal 330)
    defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
    defining Unicode char U+0150 (decimal 336)
    defining Unicode char U+0151 (decimal 337)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
    defining Unicode char U+0154 (decimal 340)
    defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
    defining Unicode char U+0158 (decimal 344)
    defining Unicode char U+0159 (decimal 345)
    defining Unicode char U+015A (decimal 346)
    defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
    defining Unicode char U+015E (decimal 350)
    defining Unicode char U+015F (decimal 351)
    defining Unicode char U+0160 (decimal 352)
@@ -468,10 +507,22 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+0163 (decimal 355)
    defining Unicode char U+0164 (decimal 356)
    defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
    defining Unicode char U+016E (decimal 366)
    defining Unicode char U+016F (decimal 367)
    defining Unicode char U+0170 (decimal 368)
    defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
    defining Unicode char U+0178 (decimal 376)
    defining Unicode char U+0179 (decimal 377)
    defining Unicode char U+017A (decimal 378)
@@ -479,9 +530,38 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+017C (decimal 380)
    defining Unicode char U+017D (decimal 381)
    defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
    defining Unicode char U+2018 (decimal 8216)
    defining Unicode char U+2019 (decimal 8217)
    defining Unicode char U+201A (decimal 8218)
@@ -497,10 +577,12 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00B8 (decimal 184)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C5 (decimal 197)
@@ -518,6 +600,14 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
    defining Unicode char U+2018 (decimal 8216)
@@ -528,8 +618,8 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -554,18 +644,18 @@ Now handling font encoding PD1 ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box60
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks26
 \symAMSa=\mathgroup4
@@ -573,41 +663,41 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2013/01/14 v2.14 AMS math features
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
 \@mathmargin=\skip62
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
-Package: amstext 2000/06/29 v2.01
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
-File: amsgen.sty 1999/11/30 v2.0
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks27
-\ex@=\dimen130
+\ex@=\dimen131
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen131
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen132
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
-Package: amsopn 1999/12/14 v2.01 operator names
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count118
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 199.
 \uproot@=\count119
 \leftroot@=\count120
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 297.
 \classnum@=\count121
 \DOTSCASE@=\count122
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box61
 \strutbox@=\box62
-\big@size=\dimen132
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\big@size=\dimen133
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \macc@depth=\count123
 \c@MaxMatrixCols=\count124
 \dotsspace@=\muskip11
@@ -618,20 +708,20 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \column@=\count128
 \maxfields@=\count129
 \andhelp@=\toks29
-\eqnshift@=\dimen133
-\alignsep@=\dimen134
-\tagshift@=\dimen135
-\tagwidth@=\dimen136
-\totwidth@=\dimen137
-\lineht@=\dimen138
+\eqnshift@=\dimen134
+\alignsep@=\dimen135
+\tagshift@=\dimen136
+\tagwidth@=\dimen137
+\totwidth@=\dimen138
+\lineht@=\dimen139
 \@envbody=\toks30
 \multlinegap=\skip63
 \multlinetaggap=\skip64
 \mathdisplay@stack=\toks31
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hanging\hanging.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\hanging\hanging.sty"
 Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngcommawd=\skip65
 \h@ngfstopwd=\skip66
@@ -642,50 +732,50 @@ Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngcolonwd=\skip71
 \h@ngscolonwd=\skip72
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip73
 \bibsep=\skip74
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count130
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen139
-\Gin@req@width=\dimen140
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 41.
+Package hyperref Info: Option `colorlinks' set `true' on input line 42.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
 Package: pdfpages 2017/08/14 v0.5k Insert pages of external PDF documents (AM)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count131
 \calc@Bcount=\count132
-\calc@Adimen=\dimen141
-\calc@Bdimen=\dimen142
+\calc@Adimen=\dimen142
+\calc@Bdimen=\dimen143
 \calc@Askip=\skip75
 \calc@Bskip=\skip76
-LaTeX Info: Redefining \setlength on input line 76.
-LaTeX Info: Redefining \addtolength on input line 77.
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count133
 \calc@Cskip=\skip77
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -698,10 +788,10 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ))
-\AM@pagewidth=\dimen143
-\AM@pageheight=\dimen144
+\AM@pagewidth=\dimen144
+\AM@pageheight=\dimen145
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
 File: pppdftex.def 2017/08/14 v0.5k Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box63
@@ -710,27 +800,28 @@ File: pppdftex.def 2017/08/14 v0.5k Pdfpages driver for pdfTeX (AM)
 \c@AM@survey=\count134
 \AM@templatesizebox=\box64
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\block.tss"
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\block.tss"
 File: block.tss 2016/03/15
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\ksiazka.a
-ux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 95.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+) (ksiazka.aux)
+\openout1 = `ksiazka.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 96.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -768,87 +859,99 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box65
-Package hyperref Info: Link coloring ON on input line 95.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+Package hyperref Info: Link coloring ON on input line 96.
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count135
 )
-LaTeX Info: Redefining \ref on input line 95.
-LaTeX Info: Redefining \pageref on input line 95.
-LaTeX Info: Redefining \nameref on input line 95.
+LaTeX Info: Redefining \ref on input line 96.
+LaTeX Info: Redefining \pageref on input line 96.
+LaTeX Info: Redefining \nameref on input line 96.
 
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\ksiazka.o
-ut")
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\ksiazka.o
-ut")
+(ksiazka.out) (ksiazka.out)
 \@outlinefile=\write4
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+\openout4 = `ksiazka.out'.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count136
-\scratchdimen=\dimen145
+\scratchdimen=\dimen146
 \scratchbox=\box66
 \nofMPsegments=\count137
 \nofMParguments=\count138
 \everyMPshowfont=\toks34
 \MPscratchCnt=\count139
-\MPscratchDim=\dimen146
+\MPscratchDim=\dimen147
 \MPnumerator=\count140
 \makeMPintoPDFobject=\count141
 \everyMPtoPDFconversion=\toks35
-) <figs/okladka.pdf, id=301, 597.55246pt x 845.07718pt>
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+<figs/okladka.pdf, id=301, 597.55246pt x 845.07718pt>
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf>
-Package pdftex.def Info: figs/okladka.pdf used on input line 97.
+Package pdftex.def Info: figs/okladka.pdf used on input line 98.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf>
-Package pdftex.def Info: figs/okladka.pdf used on input line 97.
+Package pdftex.def Info: figs/okladka.pdf used on input line 98.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 <figs/okladka.pdf, id=304, page=1, 597.55246pt x 845.07718pt>
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 97.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 98.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 97.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 98.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 97.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 98.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 97.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 98.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 97.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 98.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
  [1
 
- <C:/Users/O/Desktop/Moje dokumenty/GitHub/book/ksiazka konferencyjna/figs/okla
-dka.pdf>] [2
+ <./figs/okladka.pdf>] [2
 
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 104.
+LaTeX Font Info:    Try loading font information for U+msa on input line 105.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 104.
+LaTeX Font Info:    Try loading font information for U+msb on input line 105.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
@@ -856,53 +959,41 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 108.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 109.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 108.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 109.
+ (ksiazka.toc [1
 
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\ksiazka.t
-oc"
-Overfull \hbox (5.99768pt too wide) in paragraph at lines 40--40
- [][] [][]\T1/ptm/m/n/10 Wyd¹wi¦k artykuªów pra-sowych jako narz¦dzie wspo-ma-g
-a-j¡ce predyk-cyje kondy- 
- []
-
-[1
-
-]
-Overfull \hbox (11.85722pt too wide) in paragraph at lines 55--55
- [][] [][]\T1/ptm/m/n/10 Kiedy data.frame po»era Work-file, czyli o tym jak prz
-eprowadzamy stadko ekonom- 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
+]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.181 ...owadzenie do pakietu dplyr}{71}{Item.128}
+l.181 ...owadzenie do pakietu dplyr}{70}{Item.128}
                                                    [2])
 \tf@toc=\write5
+\openout5 = `ksiazka.toc'.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.109 \cleardoublepage
+l.110 \cleardoublepage
                        [3]pdfTeX warning (ext4): destination with the same iden
 tifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.109 \cleardoublepage
+l.110 \cleardoublepage
                        [4
 
 ]
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 115.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 116.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.147 \chapter
+l.148 \chapter
               {WstÄ™p} [1
 
 
@@ -910,24 +1001,21 @@ l.147 \chapter
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.147 \chapter
+l.148 \chapter
               {WstÄ™p} [2
 
 ]
 Chapter 2.
-
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\misc/wste
-p.tex") [3] [4
+(misc/wstep.tex) [3] [4
 
 ]
 Chapter 3.
 <figs/plan.pdf, id=460, 597.55246pt x 845.07718pt>
 File: figs/plan.pdf Graphic file (type pdf)
  <use figs/plan.pdf>
-Package pdftex.def Info: figs/plan.pdf used on input line 151.
+Package pdftex.def Info: figs/plan.pdf used on input line 152.
 (pdftex.def)             Requested size: 479.71269pt x 450.01411pt.
- [5 <C:/Users/O/Desktop/Moje dokumenty/GitHub/book/ksiazka konferencyjna/figs/p
-lan.pdf>] [6
+ [5 <./figs/plan.pdf>] [6
 
 ]
 Chapter 4.
@@ -935,16 +1023,13 @@ Chapter 4.
 File: figs/plan_warsztaty.pdf Graphic file (type pdf)
 
 <use figs/plan_warsztaty.pdf>
-Package pdftex.def Info: figs/plan_warsztaty.pdf used on input line 154.
+Package pdftex.def Info: figs/plan_warsztaty.pdf used on input line 155.
 (pdftex.def)             Requested size: 479.71269pt x 450.01411pt.
- [7 <C:/Users/O/Desktop/Moje dokumenty/GitHub/book/ksiazka konferencyjna/figs/p
-lan_warsztaty.pdf>] [8
+ [7 <./figs/plan_warsztaty.pdf>] [8
 
 ]
 Chapter 5.
-
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/01_Biecek.tex"
+(abstracts/01_Biecek.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 6.
 
@@ -953,12 +1038,12 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 18.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Overfull \hbox (16.25087pt too wide) in paragraph at lines 23--24
-\T1/ptm/m/n/10.95 do prezen-tacji mod-eli statysty-cznych (rms, forest-model an
-d reg-tools, survminer, ggRandom-
+Overfull \hbox (5.44383pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 ko«czy zbiór do±wiad-cze« doty-cz¡-cych wiz-ual-iza-cji struk
+-tury mod-elu (Wick-ham, Hadley,
  []
 
 
@@ -973,53 +1058,30 @@ Overfull \hbox (4.34613pt too wide) in paragraph at lines 31--32
 h po±wi¦-conych pro-gramowi R (Prze-
  []
 
-) [9]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/02_Bogdan.tex") [10]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/03_Brzezinska.tex"
-Overfull \hbox (18.74681pt too wide) in paragraph at lines 6--6
-\T1/ptm/b/n/17.28 Metody wiz-ual-iza-cji danych jako±-ciowych w pro-gramie
- []
-
-
-Overfull \hbox (10.34671pt too wide) in paragraph at lines 30--31
+) [9] (abstracts/02_Bogdan.tex) [10] (abstracts/03_Brzezinska.tex
+Underfull \hbox (badness 4765) in paragraph at lines 30--31
 \T1/ptm/m/n/10 Gospo-dar-czych i Fi-nan-sowych na Wydziale Fi-nan-sów i Ubez-pi
-ecze« Uni-w-er-sytetu Eko-nomicznego
+ecze« Uni-w-er-sytetu 
  []
 
 
-Overfull \hbox (12.83655pt too wide) in paragraph at lines 30--31
-\T1/ptm/m/n/10 w Ka-tow-icach. Kierowaªa grantem Nar-o-dowego Cen-trum Nauki pn
-. Mod-ele log-a-ryt-micznoliniowe
+Overfull \hbox (2.04657pt too wide) in paragraph at lines 32--33
+\T1/ptm/m/n/10 »owych cza-sopis-mach za-granicznych i kra-jowych, a tak»e jed-n
+ej mono-grafii naukowej pt.: Anal-
  []
 
-
-Overfull \hbox (9.08624pt too wide) in paragraph at lines 32--33
-[]\T1/ptm/m/n/10 Jest au-tork¡ ponad trzy-dzi-estu pub-likacji naukowych, gªówn
-ie w j¦zyku ang-iel-skim w presti»owych
- []
-
-[11]) [12]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/04_Burzykowski.tex"
+[11]) [12] (abstracts/04_Burzykowski.tex
 Overfull \hbox (3.0453pt too wide) in paragraph at lines 28--29
 []\T1/ptm/m/n/10 Pracuje jako pro-fe-sor biostatystyki/bioinformatyki na Uni-w-
 er-syte-cie Has-selt oraz jako wi-ceprezes
  []
 
-) [13]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/05_Eder.tex"
+) [13] (abstracts/05_Eder.tex
 Overfull \hbox (21.7012pt too wide) in paragraph at lines 6--6
 \T1/ptm/b/n/17.28 Kim naprawd¦ byª Gall Anonim? Za-gad-nienia statysty-
  []
 
-) [14]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/06_Jakuczun.tex") [15]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/07_Ramsza.tex"
+) [14] (abstracts/06_Jakuczun.tex) [15] (abstracts/07_Ramsza.tex
 Overfull \hbox (0.67632pt too wide) in paragraph at lines 31--32
 []\T1/ptm/m/n/10 Obecnie pracuje jako pro-fe-sor ekonomii matem-aty-cznej w Szk
 ole Gªównej Hand-lowej w Warsza-
@@ -1031,34 +1093,40 @@ Overfull \hbox (7.49619pt too wide) in paragraph at lines 31--32
 ier oraz anal-iz¡ sys-temów zªo»onych. 
  []
 
-) [16]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/08_Suchwalko.tex"
+) [16] (abstracts/08_Suchwalko.tex
 Overfull \hbox (5.63031pt too wide) in paragraph at lines 26--27
 []\T1/ptm/m/n/10.95 Predykcj¦ mo»na poprawi¢ na ró»ne sposoby, na przykªad popr
 zez wyko-rzys-tanie bardziej
  []
 
 
-Overfull \hbox (19.89624pt too wide) in paragraph at lines 33--34
+Underfull \hbox (badness 1708) in paragraph at lines 33--34
 \T1/ptm/m/n/10 bioin-for-maty-cznej MedicWave. Od kilku-nastu lat wyko-rzys-tuj
-e w biz-ne-sie dar-mowe opro-gramowanie
+e w biz-ne-sie dar-mowe 
  []
 
-) [17]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/09_Szczurek.tex") [18]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/10_Wroblewska.tex"
-Overfull \hbox (8.32216pt too wide) in paragraph at lines 23--26
+) [17] (abstracts/09_Szczurek.tex) [18] (abstracts/10_Wroblewska.tex
+Underfull \hbox (badness 1259) in paragraph at lines 23--26
 []\T1/ptm/m/n/10.95 W prezen-tacji pod-sumowu-jemy wspóªprac¦ z Cen-trum Nauki 
-Kopernik (CNK) (Katarzyna
+Kopernik (CNK) 
  []
 
 
-Overfull \hbox (16.65562pt too wide) in paragraph at lines 23--26
+Overfull \hbox (10.16322pt too wide) in paragraph at lines 23--26
+\T1/ptm/m/n/10.95 (Katarzyna Pot¦ga), Uni-w-er-sytetem Nauk Spoªecznych i Hu-ma
+n-isty-cznych (Šukasz Tana±)
+ []
+
+
+Overfull \hbox (5.56451pt too wide) in paragraph at lines 23--26
+\T1/ptm/m/n/10.95 Pra-cow-al-i±my nad danymi ob-serwa-cyjnymi ze-branymi pod-cz
+as testów przeprowad-zonych
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 23--26
 \T1/ptm/m/n/10.95 w CNK. Dane te zostaªy przeanal-i-zowane przez stu-den-tów no
-wej spec-jal-no±ci Przetwarzanie
+wej spec-jal-no±ci 
  []
 
 ) [19] [20
@@ -1067,11 +1135,9 @@ wej spec-jal-no±ci Przetwarzanie
 Chapter 6.
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 178.
+(hyperref)                be the same. Added a new anchor on input line 179.
 
-
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/T01_Mierzwa.tex"
+(abstracts/T01_Mierzwa.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 6.
 
@@ -1080,45 +1146,30 @@ Overfull \hbox (3.42838pt too wide) in paragraph at lines 23--24
 tkown-ika, który swoim wygl¡-
  []
 
-
-Overfull \hbox (15.3311pt too wide) in paragraph at lines 27--28
-\T1/ptm/m/n/10.95 likowanymi za-le»no±-ci-ami zmi-en-nych reak-ty-wnych. Zademo
-n-stru-jemy ap-likacj¦ i powiemy
- []
-
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/T02_Rogala.tex" [21])
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/T03_Mlodozeniec.tex"
+) (abstracts/T02_Rogala.tex [21]) (abstracts/T03_Mlodozeniec.tex
 Overfull \hbox (19.96591pt too wide) in paragraph at lines 6--6
 |\T1/ptm/b/n/12 Zastosowanie paki-etu Shiny do tworzenia in-ter-ak-ty-wnych wiz
 -ual-iza-cji wyników
  []
 
 
-Overfull \hbox (43.45078pt too wide) in paragraph at lines 22--23
+Underfull \hbox (badness 3657) in paragraph at lines 22--23
 []\T1/ptm/m/n/10.95 Najwi¦kszym ogranicze-niem pop-u-larnych metod wiz-ual-iza-
-cji wyników bada« eye-trackingowych,
+cji wyników bada« 
  []
 
 
-Overfull \hbox (0.32971pt too wide) in paragraph at lines 22--23
-\T1/ptm/m/n/10.95 tworze-nie w prosty sposób in-ter-ak-ty-wnych ap-likacji, któ
-re nie tylko pozwalaj¡ na ±ledze-
+Underfull \hbox (badness 7540) in paragraph at lines 22--23
+\T1/ptm/m/n/10.95 wzrokowej wymaga za-s-tosowa-nia spec-jal-isty-cznych pro-gra
+mów, w których 
  []
 
 
-Overfull \hbox (10.27226pt too wide) in paragraph at lines 22--23
-\T1/ptm/m/n/10.95 his-torii przeszuki-wa-nia wzrokowego, ale równie» daj¡ mo»li
--wo±¢ reg-u-lowa-nia parametrów
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+\T1/ptm/m/n/10.95 reg-u-lowa-nia 
  []
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/T04_Potocka.tex")
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/T05_Sobczyk.tex" [22]
+) (abstracts/T04_Potocka.tex) (abstracts/T05_Sobczyk.tex [22]
 Overfull \hbox (4.18456pt too wide) in paragraph at lines 23--24
 \T1/ptm/m/n/10.95 Opowiem o niepod-sta-wowych za-s-tosowa-ni-ach gg-plot2, któr
 y jest na-jbardziej pop-u-larnym
@@ -1131,15 +1182,13 @@ wystar-cz¡ je-dynie dwie komendy
  []
 
 ) [23]
-Overfull \hbox (4.34709pt too wide) in paragraph at lines 186--187
+Overfull \hbox (4.34709pt too wide) in paragraph at lines 187--188
 \T1/ptm/m/n/10.95 PwC to czwarta na-jsil-niejsza marka ±wiata wedªug bada-nia B
 rand Fi-nance, a jed-nocze±nie
  []
 
-
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/PC01_Pitera.tex"
-Overfull \hbox (7.31471pt too wide) in paragraph at lines 190--3
+(abstracts/PC01_Pitera.tex
+Overfull \hbox (7.31471pt too wide) in paragraph at lines 191--3
 []\T1/ptm/m/n/10.95 W Polsce PwC za-trud-nia ze-spóª blisko 3 500 pra-cown-ików
  w o±miu mi-as-tach: w Gda«sku,
  []
@@ -1148,19 +1197,13 @@ Overfull \hbox (7.31471pt too wide) in paragraph at lines 190--3
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/PC02_Kosinski.tex"
-Overfull \hbox (13.39323pt too wide) in paragraph at lines 23--24
-[]\T1/ptm/m/n/10.95 Podczas wys-t¡pi-enia przed-staw-iony zostanie ty-powy prob
--lem anal-izy koszykowej i wpªywu
+) (abstracts/PC02_Kosinski.tex
+Overfull \hbox (27.25505pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 zostan¡ za-gad-nienia up-sellu, cross-sellu, cherry-pickingu 
+i kani-bal-iza-cji sprzeda»y. Poka»emy
  []
 
-) [24]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/PC03_Kosinski.tex") [25]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MS01_Wojcik.tex"
+) [24] (abstracts/PC03_Kosinski.tex) [25] (abstracts/MS01_Wojcik.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
@@ -1183,9 +1226,7 @@ Overfull \hbox (3.98642pt too wide) in paragraph at lines 29--30
 za-cji wyników es-ty-macji. Prak-
  []
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MS02_Dyderski.tex"
+) (abstracts/MS02_Dyderski.tex
 Underfull \vbox (badness 2735) has occurred while \output is active []
 
  [26]
@@ -1194,78 +1235,65 @@ Overfull \hbox (3.18718pt too wide) in paragraph at lines 23--24
  al-lom-e-trycznych za-le»no±ci
  []
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MS03_Nowacki.tex"
+) (abstracts/MS03_Nowacki.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 6.
+
+
 Overfull \hbox (3.19931pt too wide) in paragraph at lines 24--25
 []\T1/ptm/m/n/10.95 Przedstawienie wyników anal-izy wyd¹wi¦ku artykuªów z Parki
 -etu z lat 2000-2017(ponad
  []
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MS04_Slomczynski.tex" [27])
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MS05_Grala.tex") [28]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MR01_Ochotny.tex"
+) (abstracts/MS04_Slomczynski.tex [27]) (abstracts/MS05_Grala.tex) [28]
+(abstracts/MR01_Ochotny.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MR02_Wrobel.tex")
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MR03_Kowalczyk.tex" [29]) [30]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIO01_Stankiewicz.tex"
+) (abstracts/MR02_Wrobel.tex) (abstracts/MR03_Kowalczyk.tex [29]) [30]
+(abstracts/BIO01_Stankiewicz.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIO02_Gosiewska.tex"
+) (abstracts/BIO02_Gosiewska.tex
 Overfull \hbox (2.47581pt too wide) in paragraph at lines 23--25
 \T1/ptm/m/n/10.95 izy i wiz-ual-iza-cji danych doty-cz¡-cych ek-spresji genów o
 raz mety-lacji DNA. Kluc-zowymi
  []
 
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 26.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
 )
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIO03_Dabrowska.tex")
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIO04_Kosinski.tex" [31]
+(abstracts/BIO03_Dabrowska.tex) (abstracts/BIO04_Kosinski.tex [31]
 Overfull \hbox (5.00583pt too wide) in paragraph at lines 23--24
 \T1/ptm/m/n/10.95 di-ag-nos-tyki i sprawdzenia za-ªo»e« mod-elu Coxa pro-por-cj
 on-al-nych haz-ardów - na-jbardziej
  []
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIO05_Oles.tex"
+) (abstracts/BIO05_Oles.tex
 Overfull \hbox (0.11105pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10.95 ma-cje przestrzenne oraz fil-trowanie. Na przykªadzie mikrosk
 opowych obrazów komórek
  []
 
-) [32]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIZ01_Olszewski.tex"
+) [32] (abstracts/BIZ01_Olszewski.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIZ02_Skrzydlo.tex"
+) (abstracts/BIZ02_Skrzydlo.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 6.
+
+
 Overfull \hbox (12.26532pt too wide) in paragraph at lines 23--24
 \T1/ptm/m/n/10.95 pro-gramistów? Czy mo»e to za-j¦-cie tylko dla wybranych, któ
 rzy przy-wdziewa-j¡c flanelowe
@@ -1277,28 +1305,19 @@ Overfull \hbox (3.34158pt too wide) in paragraph at lines 23--24
 i lu-bianych softów? Krótka
  []
 
-) [33]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIZ03_Zoltak.tex")
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIZ04_Jedrzejewski.tex")
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIZ05_Martsenyuk.tex"
+) [33] (abstracts/BIZ03_Zoltak.tex) (abstracts/BIZ04_Jedrzejewski.tex)
+(abstracts/BIZ05_Martsenyuk.tex
 Overfull \hbox (7.59404pt too wide) in paragraph at lines 6--6
 |\T1/ptm/b/n/12 Podejmowanie de-cyzji w R - w warunk-ach pewno±ci, ryzyko oraz 
 niepewno±ci| 
  []
 
-) [34] [35]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/R01_Potocka.tex"
+) [34] [35] (abstracts/R01_Potocka.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/R02_Melcer.tex"
+) (abstracts/R02_Melcer.tex
 Overfull \hbox (3.00224pt too wide) in paragraph at lines 23--24
 []\T1/ptm/m/n/10.95 Google Sum-mer of Code to pro-gram umo»li-wia-j¡cy sfi-nan-
 sowanie pªat-nych waka-cyjnych
@@ -1310,17 +1329,11 @@ Overfull \hbox (1.91801pt too wide) in paragraph at lines 23--24
 lemów mo»na si¦ spodziewa¢
  []
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/R04_Bigos.tex") [36]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/R05_Kochanski.tex") [37] [38
+) (abstracts/R04_Bigos.tex) [36] (abstracts/R05_Kochanski.tex) [37] [38
 
 ]
 Chapter 7.
-
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/L01_Chmura.tex"
+(abstracts/L01_Chmura.tex
 Overfull \hbox (12.42203pt too wide) in paragraph at lines 6--6
 \T1/ptm/b/n/17.28 Lasy z in-wazyjnym d¦bem cz-er-wonym w ±wi-etle analiz
  []
@@ -1330,42 +1343,39 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
 
-Overfull \hbox (18.14604pt too wide) in paragraph at lines 23--24
-\T1/ptm/m/n/10.95 lasów. Wylic-zone wska¹niki: bo-gactwa gatunkowego i ró»norod
--no±ci gatunkowej (wska¹nik
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 6.
+
+
+Overfull \hbox (14.20374pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 (wska¹nik Shannona-Wienera i in.) oraz ró»norod-no±ci funkcjo
+n-al-nej (pakiet FD: funkcjon-
  []
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/L02_Czernecki.tex"
+
+Overfull \hbox (9.43974pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 okre±le-nie, na ja-kich ty-pach siedlisk d¡b cz-er-wony cz¦±-
+ciej dokonuje in-wazji lub wcze±niej
+ []
+
+) (abstracts/L02_Czernecki.tex
 Overfull \hbox (20.55942pt too wide) in paragraph at lines 6--6
 \T1/ptm/b/n/17.28 FasteR - kiedy warto prze-nie±¢ obliczenia na su-perkom-
  []
 
-
-Underfull \vbox (badness 1817) has occurred while \output is active []
-
- [39]
+[39]
 Overfull \hbox (51.05951pt too wide) in paragraph at lines 24--26
 []\T1/ptm/m/n/10.95 W prezen-tacji przed-staw-iono przykªad-owe rozwi¡za-nia (i
  ograniczenia) zwi¡zane z przyspieszaniem
  []
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/L03_Bielski.tex")
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/L04_Otmianowski.tex"
+) (abstracts/L03_Bielski.tex) (abstracts/L04_Otmianowski.tex
 Overfull \hbox (3.82324pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10.95 towego gen-erowa-nia wykresów oraz przetrzymy-wa-nia ich w da
 ta frame'ach, co ogranicza
  []
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/L05_Lodzikowski.tex" [40])
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/L06_Staniak.tex"
+) (abstracts/L05_Lodzikowski.tex [40]) (abstracts/L06_Staniak.tex
 Overfull \hbox (22.89381pt too wide) in paragraph at lines 6--6
 \T1/ptm/b/n/17.28 Zawód rodz-ica a edukacja dziecka - wiz-ual-icja wyników
  []
@@ -1374,25 +1384,30 @@ Overfull \hbox (22.89381pt too wide) in paragraph at lines 6--6
 
 ]
 Chapter 8.
-
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/P01_Pawlik.tex"
+(abstracts/P01_Pawlik.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
 
-Overfull \hbox (19.35089pt too wide) in paragraph at lines 23--24
-[]\T1/ptm/m/n/10.95 Wyniki lab-o-ra-to-ryjnych analiz chemicznych i fizy-cznych
- próbek gleb po-branych z poligonów
+Overfull \hbox (3.44016pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 z poligonów badawczych w Gor-cach, rez-erwa-cie Zofin (Czechy
+) i stanie Michi-gan (USA)
  []
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/P02_Czortek.tex"
+) (abstracts/P02_Czortek.tex
 Overfull \hbox (7.82552pt too wide) in paragraph at lines 6--6
 \T1/ptm/b/n/17.28 Competition and tourism drive trade-off be-tween veg-
  []
+
+
+Overfull \hbox (15.77403pt too wide) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 reproduction of rare moun-tain species Carex lachenalii
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 6.
 
 
 Overfull \hbox (5.33289pt too wide) in paragraph at lines 23--24
@@ -1400,30 +1415,41 @@ Overfull \hbox (5.33289pt too wide) in paragraph at lines 23--24
 d at a meta-population level, whereas
  []
 
-[43])
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/P03_Pawlowska.tex"
+[43]) (abstracts/P03_Pawlowska.tex
 Overfull \hbox (12.45605pt too wide) in paragraph at lines 6--6
 \T1/ptm/b/n/17.28 Informacja pub-liczna troch¦ bardziej pub-liczna - dane
  []
 
 
-Overfull \hbox (65.39383pt too wide) in paragraph at lines 25--26
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 6.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 \T1/ptm/m/n/10.95 u»y-ciu paki-etu Shiny przy-go-towal-i±my ap-likacj¦ dost¦pn¡
- pod adresem: http://greenelephant.pl/rowery.
+ pod adresem: 
  []
 
-)
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/P04_Cieslak.tex")
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/P05_Wierzcholska.tex" [44]) [45] [46
+
+Overfull \hbox (5.89264pt too wide) in paragraph at lines 25--26
+\T1/ptm/m/n/10.95 http://greenelephant.pl/rowery. Pokazuje ona mi¦dzy in-nymi n
+at¦»e-nie ruchu rowerowego
+ []
+
+) (abstracts/P04_Cieslak.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 6.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44])
+(abstracts/P05_Wierzcholska.tex) [45] [46
 
 ]
 Chapter 9.
-
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W01_Szklarczyk.tex"
+(abstracts/W01_Szklarczyk.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
@@ -1440,9 +1466,7 @@ Overfull \hbox (5.54642pt too wide) in paragraph at lines 36--37
  danych son-da»owych, spoªecznych.
  []
 
-[47]) [48]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W02_Zoltak.tex"
+[47]) [48] (abstracts/W02_Zoltak.tex
 Overfull \hbox (0.66571pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 szczegól-no±ci w za-kre-sie wielko±ci bª¦dów stan-dar-d-owych (a
  w kon-sek-wencji is-tot-no±ci statysty-
@@ -1466,43 +1490,27 @@ Overfull \hbox (11.55182pt too wide) in paragraph at lines 54--55
 ru próby przy prowadze-
  []
 
-[49]) [50]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W03_Sekiewicz.tex"
+[49]) [50] (abstracts/W03_Sekiewicz.tex
 Overfull \hbox (16.50557pt too wide) in paragraph at lines 33--34
 \T1/ptm/m/n/10 rvest (wystar-czy za-poz-nanie si¦ z opisem paki-etu i jego zroz
 u-mie-nie, https://github.com/hadley/rvest) 
  []
 
-) [51]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W04_Mazurek.tex") [52]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W05_Grala.tex"
+) [51] (abstracts/W04_Mazurek.tex) [52] (abstracts/W05_Grala.tex
 Overfull \hbox (11.61682pt too wide) in paragraph at lines 36--37
 \T1/ptm/m/n/10 Podstawy j¦zyka R, zna-jo-mo±¢ pod-sta-wowych klas prob-lemów i 
 al-go-ryt-mów uczenia maszynowego 
  []
 
-) [53]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W06_Detko.tex") [54]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W07_Maj.tex") [55]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W08_Zawistowski.tex") [56]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W09_Alekseichenko.tex" [57]) [58]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W10_Teisseyre.tex"
+) [53] (abstracts/W06_Detko.tex) [54] (abstracts/W07_Maj.tex) [55]
+(abstracts/W08_Zawistowski.tex) [56] (abstracts/W09_Alekseichenko.tex [57])
+[58] (abstracts/W10_Teisseyre.tex
 Overfull \hbox (16.96667pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 chorowal-no±ci (wspóªwys-t¦powanie wielu chorób jed-nocze±nie), 
 przewidy-wanie skutków ubocznych
  []
 
-) [59]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W11_Ocalewicz.tex"
+) [59] (abstracts/W11_Ocalewicz.tex
 Overfull \hbox (3.39583pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 »eby rozsz-erzy¢ swoje umiej¦t-no±ci w za-kre-sie wiz-ual-iza-cj
 i danych i nauczy¢ si¦ tworzy¢ ciekawe
@@ -1526,11 +1534,7 @@ Overfull \hbox (7.74542pt too wide) in paragraph at lines 30--31
 i¡-gawki' za-w-ier-a-j¡ce na-jwa»niejsze
  []
 
-) [60] [61]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W12_Cwiakowski.tex") [62]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W13_Dyderski.tex"
+) [60] [61] (abstracts/W12_Cwiakowski.tex) [62] (abstracts/W13_Dyderski.tex
 Overfull \hbox (11.67918pt too wide) in paragraph at lines 6--6
 \T1/ptm/b/n/17.28 Wró»enie z punk-tów - or-dy-nacja w ek-splo-racji danych| 
  []
@@ -1559,11 +1563,7 @@ Overfull \hbox (7.71547pt too wide) in paragraph at lines 49--50
 ch i lis-tach, umiej¦t-no±¢ tworzenia
  []
 
-[63]) [64]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W14_Migdal.tex") [65]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W15_Wojtasiewicz.tex"
+[63]) [64] (abstracts/W14_Migdal.tex) [65] (abstracts/W15_Wojtasiewicz.tex
 Overfull \hbox (13.01553pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 Celem warsz-tatu jest za-z-na-jomie-nie uczest-ników z tem-atyk¡
  anal-izy danych w sieci-ach spoªecznych.
@@ -1575,11 +1575,7 @@ Overfull \hbox (5.54483pt too wide) in paragraph at lines 24--25
 na-jpr¦»niej rozwi-ja-j¡-cych si¦ dziedzin
  []
 
-) [66]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W16_Ryciak.tex") [67]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W17_Zawadzki.tex"
+) [66] (abstracts/W16_Ryciak.tex) [67] (abstracts/W17_Zawadzki.tex
 Overfull \hbox (4.0064pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 Celem warsz-tatu jest naucze-nie u»ytkown-ików wyko-rzys-ta-nia 
 paki-etu Rcpp pozwala-j¡cego wyko-
@@ -1597,14 +1593,10 @@ Overfull \hbox (14.03093pt too wide) in paragraph at lines 46--47
 Ar-madillo i funkcje R dost¦pne
  []
 
-[68]) [69]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W18_Tartanus.tex") [70]
+[68]) [69] (abstracts/W18_Tartanus.tex) [70]
 runsystem(makeindex a.idx)...executed (allowed).
 
-
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\a.ind")
-[71
+ (a.ind) [71
 
 
 
@@ -1612,68 +1604,65 @@ runsystem(makeindex a.idx)...executed (allowed).
 
 ]
 File: figs/okladka.pdf Graphic file (type pdf)
- <use figs/okladka.pdf>
-Package pdftex.def Info: figs/okladka.pdf used on input line 293.
+
+<use figs/okladka.pdf>
+Package pdftex.def Info: figs/okladka.pdf used on input line 294.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf>
-Package pdftex.def Info: figs/okladka.pdf used on input line 293.
+Package pdftex.def Info: figs/okladka.pdf used on input line 294.
+(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
+File: figs/okladka.pdf Graphic file (type pdf)
+ <use figs/okladka.pdf, page 1>
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 294.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 293.
-(pdftex.def)             Requested size: 597.551pt x 845.07512pt.
-File: figs/okladka.pdf Graphic file (type pdf)
- <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 293.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 294.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
  [73
 
 ]
 File: figs/okladka.pdf Graphic file (type pdf)
+ <use figs/okladka.pdf, page 1>
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 294.
+(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
+File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 293.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 294.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 293.
-(pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
-File: figs/okladka.pdf Graphic file (type pdf)
-
-<use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 293.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 294.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
  [74]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 295.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 295.
-
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\ksiazka.a
-ux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 295.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 295.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 296.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 296.
+ (ksiazka.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 296.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 296.
 Package rerunfilecheck Info: File `ksiazka.out' has not changed.
-(rerunfilecheck)             Checksum: 1B44467CD54F9FB8AE3F97AA4B636E6D;8055.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 295.
+(rerunfilecheck)             Checksum: 3561A4EF2A93B664C54E8F26BC2A814E;8078.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 296.
  ) 
 Here is how much of TeX's memory you used:
- 9999 strings out of 493921
- 151858 string characters out of 3144888
- 244732 words of memory out of 3000000
- 12650 multiletter control sequences out of 15000+200000
+ 10245 strings out of 493333
+ 143552 string characters out of 3139193
+ 255420 words of memory out of 3000000
+ 13123 multiletter control sequences out of 15000+200000
  47788 words of font info for 79 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 37i,18n,48p,2177b,628s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
-/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/
-times/utmri8a.pfb>
-Output written on ksiazka.pdf (82 pages, 1159055 bytes).
+ 1141 hyphenation exceptions out of 8191
+ 37i,18n,48p,2179b,628s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/cou
+rier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ksiazka.pdf (82 pages, 1158811 bytes).
 PDF statistics:
  1014 PDF objects out of 1200 (max. 8388607)
  229 named destinations out of 1000 (max. 500000)

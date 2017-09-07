@@ -27,7 +27,7 @@
 \BOOKMARK [1][-]{section*.4}{Statystyka}{chapter.6}% 27
 \BOOKMARK [2][-]{section*.5}{Modelowanie dynamiki rozk\233adu w R. Zastosowanie do analizy konwergencji na poziomie lokalnym}{section*.4}% 28
 \BOOKMARK [2][-]{section*.5}{Relacje miedzy lasem a klimatem w r\363znych skalach przestrzennych \205 jak to ugRyzc?}{section*.4}% 29
-\BOOKMARK [2][-]{section*.5}{Wydzwiek artyku\233\363w prasowych jako narzedzie wspomagajace predykcyje kondycji finansowej przedsiebiorstw}{section*.4}% 30
+\BOOKMARK [2][-]{section*.5}{Wydzwiek artyku\233\363w prasowych jako narzedzie wspomagajace predykcje \040kondycji finansowej przedsiebiorstw}{section*.4}% 30
 \BOOKMARK [2][-]{section*.5}{FSelectorRcpp \205 wolna od Java/Weka implementacja pakietu FSelector}{section*.4}% 31
 \BOOKMARK [2][-]{section*.5}{Analiza sentymentu przy uzyciu bibliotek Microsoft}{section*.4}% 32
 \BOOKMARK [1][-]{section*.5}{Modelowanie Ryzyka \(UBS\)}{chapter.6}% 33
@@ -42,7 +42,7 @@
 \BOOKMARK [2][-]{section*.7}{Podstawy przetwarzania i analizy obraz\363w w R }{section*.6}% 42
 \BOOKMARK [1][-]{section*.7}{Biznes}{chapter.6}% 43
 \BOOKMARK [2][-]{section*.8}{Wyzwania stawiane przez technologie open source w biznesie}{section*.7}% 44
-\BOOKMARK [2][-]{section*.8}{Kiedy data.frame pozera Workfile, czyli o tym jak przeprowadzamy stadko ekonometryk\363w z klikania w EViewsie do pisania w R}{section*.7}% 45
+\BOOKMARK [2][-]{section*.8}{Kiedy data.frame pozera Workfile, czyli o tym jak przeprowadzamy stadko \040ekonometryk\363w z klikania w EViewsie do pisania w R}{section*.7}% 45
 \BOOKMARK [2][-]{section*.8}{Czy R \(kiedys\) zastapi SPSS?}{section*.7}% 46
 \BOOKMARK [2][-]{section*.8}{R a dane w chmurze}{section*.7}% 47
 \BOOKMARK [2][-]{section*.8}{Podejmowanie decyzji w R - w warunkach pewnosci, ryzyko oraz niepewnosci}{section*.7}% 48
@@ -53,7 +53,7 @@
 \BOOKMARK [2][-]{section*.9}{Planowanie pojemnosci i wydajnosci w celu przeciwdzia\233ania awariom}{section*.8}% 53
 \BOOKMARK [2][-]{section*.9}{Jak wygrac wiecej w lotto z R?}{section*.8}% 54
 \BOOKMARK [0][-]{chapter.7}{Lightning Talks}{}% 55
-\BOOKMARK [1][-]{section*.10}{Lasy z inwazyjnym debem czerwonym w swietle analiz wielowymiarowych przy uzyciu R }{chapter.7}% 56
+\BOOKMARK [1][-]{section*.10}{Lasy z inwazyjnym debem czerwonym w swietle analiz wielowymiarowych \040przy uzyciu R }{chapter.7}% 56
 \BOOKMARK [1][-]{section*.10}{FasteR - kiedy warto przeniesc obliczenia na superkomputery?}{chapter.7}% 57
 \BOOKMARK [1][-]{section*.10}{SparkR - wydajne obliczenia w chmurze}{chapter.7}% 58
 \BOOKMARK [1][-]{section*.10}{Uprzyjemnij sobie generowanie wielu wykres\363w za pomoca purrr}{chapter.7}% 59
@@ -61,9 +61,9 @@
 \BOOKMARK [1][-]{section*.10}{Zaw\363d rodzica a edukacja dziecka - wizualicja wynik\363w badan PISA}{chapter.7}% 61
 \BOOKMARK [0][-]{chapter.8}{Sesja plakatowa}{}% 62
 \BOOKMARK [1][-]{section*.11}{Analizy gleboznawcze w R}{chapter.8}% 63
-\BOOKMARK [1][-]{section*.11}{Competition and tourism drive trade-off between vegetative and generative reproduction of rare mountain species Carex lachenalii Schkuhr}{chapter.8}% 64
-\BOOKMARK [1][-]{section*.11}{Informacja publiczna troche bardziej publiczna - dane z licznik\363w rower\363w w Warszawie w Shiny}{chapter.8}% 65
-\BOOKMARK [1][-]{section*.11}{Mood of Music - a machine learning model for classifying mood of music by evaluating characteristic words of songs lyrics}{chapter.8}% 66
+\BOOKMARK [1][-]{section*.11}{Competition and tourism drive trade-off between vegetative and generative \040reproduction of rare mountain species Carex lachenalii Schkuhr}{chapter.8}% 64
+\BOOKMARK [1][-]{section*.11}{Informacja publiczna troche bardziej publiczna - dane z licznik\363w rower\363w \040w Warszawie w Shiny}{chapter.8}% 65
+\BOOKMARK [1][-]{section*.11}{Mood of Music - a machine learning model for classifying mood of music \040by evaluating characteristic words of songs lyrics}{chapter.8}% 66
 \BOOKMARK [1][-]{section*.11}{TBA}{chapter.8}% 67
 \BOOKMARK [0][-]{chapter.9}{Warsztaty}{}% 68
 \BOOKMARK [1][-]{section*.12}{Analiza danych sondazowych w R}{chapter.9}% 69
