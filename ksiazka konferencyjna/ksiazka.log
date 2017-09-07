@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.17)  7 SEP 2017 19:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.17)  8 SEP 2017 01:01
 entering extended mode
 **./ksiazka.tex
 (ksiazka.tex
@@ -903,7 +903,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-<figs/okladka.pdf, id=301, 597.55246pt x 845.07718pt>
+<figs/okladka.pdf, id=292, 597.55246pt x 845.07718pt>
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf>
 Package pdftex.def Info: figs/okladka.pdf used on input line 98.
@@ -914,7 +914,7 @@ File: figs/okladka.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/okladka.pdf used on input line 98.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<figs/okladka.pdf, id=304, page=1, 597.55246pt x 845.07718pt>
+<figs/okladka.pdf, id=295, page=1, 597.55246pt x 845.07718pt>
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
@@ -964,12 +964,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 109.
  (ksiazka.toc [1
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.181 ...owadzenie do pakietu dplyr}{70}{Item.128}
-                                                   [2])
+])
 \tf@toc=\write5
 \openout5 = `ksiazka.toc'.
 
@@ -978,14 +973,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.110 \cleardoublepage
-                       [3]pdfTeX warning (ext4): destination with the same iden
-tifier (name{page.}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.110 \cleardoublepage
-                       [4
-
-]
+                       [2]
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 116.
@@ -995,6 +983,7 @@ been already used, duplicate ignored
                    \relax 
 l.148 \chapter
               {WstÄ™p} [1
+
 
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
@@ -1010,7 +999,7 @@ Chapter 2.
 
 ]
 Chapter 3.
-<figs/plan.pdf, id=460, 597.55246pt x 845.07718pt>
+<figs/plan.pdf, id=441, 597.55246pt x 845.07718pt>
 File: figs/plan.pdf Graphic file (type pdf)
  <use figs/plan.pdf>
 Package pdftex.def Info: figs/plan.pdf used on input line 152.
@@ -1019,7 +1008,7 @@ Package pdftex.def Info: figs/plan.pdf used on input line 152.
 
 ]
 Chapter 4.
-<figs/plan_warsztaty.pdf, id=496, 597.55246pt x 845.07718pt>
+<figs/plan_warsztaty.pdf, id=476, 597.55246pt x 845.07718pt>
 File: figs/plan_warsztaty.pdf Graphic file (type pdf)
 
 <use figs/plan_warsztaty.pdf>
@@ -1312,10 +1301,34 @@ Overfull \hbox (7.59404pt too wide) in paragraph at lines 6--6
 niepewno±ci| 
  []
 
-) [34] [35] (abstracts/R01_Potocka.tex
+) [34]
+Overfull \hbox (1.49101pt too wide) in paragraph at lines 226--228
+\T1/ptm/m/n/10.95 osób, które takie grupy prowadz¡, jak równie» dla tych którzy
+ chc¡ ut-worzy¢ spoªeczno±¢
+ []
+
+
+Overfull \hbox (5.17033pt too wide) in paragraph at lines 229--231
+\T1/ptm/m/n/10.95 Grupy pasjonatów odgry-waj¡ ogromn¡ rol¦ w pop-u-laryza-cji R
+. Celem ka»dego ze spotka«
+ []
+
+
+Overfull \hbox (0.2841pt too wide) in paragraph at lines 229--231
+\T1/ptm/m/n/10.95 taªce-nie oraz net-work-ing. W Polsce ak-ty-wnie dzi-aªa 6 gr
+up. W trak-cie sesji chcieliby±my
+ []
+
+[35] (abstracts/R01_Otmianowski.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
+
+
+Overfull \hbox (3.82324pt too wide) in paragraph at lines 24--25
+\T1/ptm/m/n/10.95 towego gen-erowa-nia wykresów oraz przetrzymy-wa-nia ich w da
+ta frame'ach, co ogranicza
+ []
 
 ) (abstracts/R02_Melcer.tex
 Overfull \hbox (3.00224pt too wide) in paragraph at lines 23--24
@@ -1369,13 +1382,8 @@ Overfull \hbox (51.05951pt too wide) in paragraph at lines 24--26
  ograniczenia) zwi¡zane z przyspieszaniem
  []
 
-) (abstracts/L03_Bielski.tex) (abstracts/L04_Otmianowski.tex
-Overfull \hbox (3.82324pt too wide) in paragraph at lines 24--25
-\T1/ptm/m/n/10.95 towego gen-erowa-nia wykresów oraz przetrzymy-wa-nia ich w da
-ta frame'ach, co ogranicza
- []
-
-) (abstracts/L05_Lodzikowski.tex [40]) (abstracts/L06_Staniak.tex
+) (abstracts/L03_Bielski.tex) (abstracts/L05_Lodzikowski.tex [40])
+(abstracts/L06_Staniak.tex
 Overfull \hbox (22.89381pt too wide) in paragraph at lines 6--6
 \T1/ptm/b/n/17.28 Zawód rodz-ica a edukacja dziecka - wiz-ual-icja wyników
  []
@@ -1396,15 +1404,6 @@ Overfull \hbox (3.44016pt too wide) in paragraph at lines 23--24
  []
 
 ) (abstracts/P02_Czortek.tex
-Overfull \hbox (7.82552pt too wide) in paragraph at lines 6--6
-\T1/ptm/b/n/17.28 Competition and tourism drive trade-off be-tween veg-
- []
-
-
-Overfull \hbox (15.77403pt too wide) in paragraph at lines 6--6
-\T1/ptm/b/n/17.28 reproduction of rare moun-tain species Carex lachenalii
- []
-
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\\' on input line 6.
@@ -1436,18 +1435,7 @@ Overfull \hbox (5.89264pt too wide) in paragraph at lines 25--26
 at¦»e-nie ruchu rowerowego
  []
 
-) (abstracts/P04_Cieslak.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 6.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [44])
-(abstracts/P05_Wierzcholska.tex) [45] [46
-
-]
+) [44]
 Chapter 9.
 (abstracts/W01_Szklarczyk.tex
 
@@ -1466,7 +1454,9 @@ Overfull \hbox (5.54642pt too wide) in paragraph at lines 36--37
  danych son-da»owych, spoªecznych.
  []
 
-[47]) [48] (abstracts/W02_Zoltak.tex
+[45
+
+]) [46] (abstracts/W02_Zoltak.tex
 Overfull \hbox (0.66571pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 szczegól-no±ci w za-kre-sie wielko±ci bª¦dów stan-dar-d-owych (a
  w kon-sek-wencji is-tot-no±ci statysty-
@@ -1490,27 +1480,27 @@ Overfull \hbox (11.55182pt too wide) in paragraph at lines 54--55
 ru próby przy prowadze-
  []
 
-[49]) [50] (abstracts/W03_Sekiewicz.tex
+[47]) [48] (abstracts/W03_Sekiewicz.tex
 Overfull \hbox (16.50557pt too wide) in paragraph at lines 33--34
 \T1/ptm/m/n/10 rvest (wystar-czy za-poz-nanie si¦ z opisem paki-etu i jego zroz
 u-mie-nie, https://github.com/hadley/rvest) 
  []
 
-) [51] (abstracts/W04_Mazurek.tex) [52] (abstracts/W05_Grala.tex
+) [49] (abstracts/W04_Mazurek.tex) [50] (abstracts/W05_Grala.tex
 Overfull \hbox (11.61682pt too wide) in paragraph at lines 36--37
 \T1/ptm/m/n/10 Podstawy j¦zyka R, zna-jo-mo±¢ pod-sta-wowych klas prob-lemów i 
 al-go-ryt-mów uczenia maszynowego 
  []
 
-) [53] (abstracts/W06_Detko.tex) [54] (abstracts/W07_Maj.tex) [55]
-(abstracts/W08_Zawistowski.tex) [56] (abstracts/W09_Alekseichenko.tex [57])
-[58] (abstracts/W10_Teisseyre.tex
+) [51] (abstracts/W06_Detko.tex) [52] (abstracts/W07_Maj.tex) [53]
+(abstracts/W08_Zawistowski.tex) [54] (abstracts/W09_Alekseichenko.tex [55])
+[56] (abstracts/W10_Teisseyre.tex
 Overfull \hbox (16.96667pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 chorowal-no±ci (wspóªwys-t¦powanie wielu chorób jed-nocze±nie), 
 przewidy-wanie skutków ubocznych
  []
 
-) [59] (abstracts/W11_Ocalewicz.tex
+) [57] (abstracts/W11_Ocalewicz.tex
 Overfull \hbox (3.39583pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 »eby rozsz-erzy¢ swoje umiej¦t-no±ci w za-kre-sie wiz-ual-iza-cj
 i danych i nauczy¢ si¦ tworzy¢ ciekawe
@@ -1534,7 +1524,7 @@ Overfull \hbox (7.74542pt too wide) in paragraph at lines 30--31
 i¡-gawki' za-w-ier-a-j¡ce na-jwa»niejsze
  []
 
-) [60] [61] (abstracts/W12_Cwiakowski.tex) [62] (abstracts/W13_Dyderski.tex
+) [58] [59] (abstracts/W12_Cwiakowski.tex) [60] (abstracts/W13_Dyderski.tex
 Overfull \hbox (11.67918pt too wide) in paragraph at lines 6--6
 \T1/ptm/b/n/17.28 Wró»enie z punk-tów - or-dy-nacja w ek-splo-racji danych| 
  []
@@ -1563,7 +1553,7 @@ Overfull \hbox (7.71547pt too wide) in paragraph at lines 49--50
 ch i lis-tach, umiej¦t-no±¢ tworzenia
  []
 
-[63]) [64] (abstracts/W14_Migdal.tex) [65] (abstracts/W15_Wojtasiewicz.tex
+[61]) [62] (abstracts/W14_Migdal.tex) [63] (abstracts/W15_Wojtasiewicz.tex
 Overfull \hbox (13.01553pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 Celem warsz-tatu jest za-z-na-jomie-nie uczest-ników z tem-atyk¡
  anal-izy danych w sieci-ach spoªecznych.
@@ -1575,7 +1565,7 @@ Overfull \hbox (5.54483pt too wide) in paragraph at lines 24--25
 na-jpr¦»niej rozwi-ja-j¡-cych si¦ dziedzin
  []
 
-) [66] (abstracts/W16_Ryciak.tex) [67] (abstracts/W17_Zawadzki.tex
+) [64] (abstracts/W16_Ryciak.tex) [65] (abstracts/W17_Zawadzki.tex
 Overfull \hbox (4.0064pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 Celem warsz-tatu jest naucze-nie u»ytkown-ików wyko-rzys-ta-nia 
 paki-etu Rcpp pozwala-j¡cego wyko-
@@ -1593,68 +1583,68 @@ Overfull \hbox (14.03093pt too wide) in paragraph at lines 46--47
 Ar-madillo i funkcje R dost¦pne
  []
 
-[68]) [69] (abstracts/W18_Tartanus.tex) [70]
+[66]) [67] (abstracts/W18_Tartanus.tex) [68]
 runsystem(makeindex a.idx)...executed (allowed).
 
- (a.ind) [71
+ (a.ind) [69
 
 
 
-] [72
+] [70
 
 ]
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf>
-Package pdftex.def Info: figs/okladka.pdf used on input line 294.
+Package pdftex.def Info: figs/okladka.pdf used on input line 298.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf>
-Package pdftex.def Info: figs/okladka.pdf used on input line 294.
+Package pdftex.def Info: figs/okladka.pdf used on input line 298.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 294.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 298.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 294.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 298.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
- [73
+ [71
 
 ]
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 294.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 298.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 294.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 298.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 294.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 298.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
- [74]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 296.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 296.
+ [72]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 300.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 300.
  (ksiazka.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 296.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 296.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 300.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 300.
 Package rerunfilecheck Info: File `ksiazka.out' has not changed.
-(rerunfilecheck)             Checksum: 3561A4EF2A93B664C54E8F26BC2A814E;8078.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 296.
+(rerunfilecheck)             Checksum: 6EA47EF6BB9F1B6689E66F1A04F482EA;7791.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 300.
  ) 
 Here is how much of TeX's memory you used:
- 10245 strings out of 493333
- 143552 string characters out of 3139193
+ 10234 strings out of 493333
+ 143340 string characters out of 3139193
  255420 words of memory out of 3000000
  13123 multiletter control sequences out of 15000+200000
  47788 words of font info for 79 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,18n,48p,2179b,628s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,18n,48p,2179b,630s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
@@ -1662,9 +1652,9 @@ onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 rier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ksiazka.pdf (82 pages, 1158811 bytes).
+Output written on ksiazka.pdf (78 pages, 1155519 bytes).
 PDF statistics:
- 1014 PDF objects out of 1200 (max. 8388607)
- 229 named destinations out of 1000 (max. 500000)
- 749 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 985 PDF objects out of 1000 (max. 8388607)
+ 227 named destinations out of 1000 (max. 500000)
+ 725 words of extra memory for PDF output out of 10000 (max. 10000000)
 

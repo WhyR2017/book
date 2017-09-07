@@ -58,7 +58,7 @@
 \contentsline {subsection}{Podejmowanie decyzji w R - w warunkach pewno\IeC {\'s}ci, ryzyko oraz niepewno\IeC {\'s}ci}{34}{section*.8}
 \contentsline {section}{Spo\IeC {\l }eczno\IeC {\'s}ci}{35}{section*.8}
 \contentsline {section}{R w dzia\IeC {\l }aniu}{36}{section*.8}
-\contentsline {subsection}{R-Ladies Warsaw}{36}{section*.9}
+\contentsline {subsection}{Uprzyjemnij sobie generowanie wielu wykres\IeC {\'o}w za pomoc\IeC {\k a} purrr}{36}{section*.9}
 \contentsline {subsection}{Projekt R w Google Summer of Code: okiem mentora}{36}{section*.9}
 \contentsline {subsection}{Planowanie pojemno\IeC {\'s}ci i wydajno\IeC {\'s}ci w celu przeciwdzia\IeC {\l }ania awariom}{36}{section*.9}
 \contentsline {subsection}{Jak wygra\IeC {\'c} wi\IeC {\k e}cej w lotto z R?}{37}{section*.9}
@@ -66,121 +66,118 @@
 \contentsline {section}{Lasy z inwazyjnym d\IeC {\k e}bem czerwonym w \IeC {\'s}wietle analiz wielowymiarowych \\ przy u\IeC {\.z}yciu R }{39}{section*.10}
 \contentsline {section}{FasteR - kiedy warto przenie\IeC {\'s}\IeC {\'c} obliczenia na superkomputery?}{40}{section*.10}
 \contentsline {section}{SparkR - wydajne obliczenia w chmurze}{40}{section*.10}
-\contentsline {section}{Uprzyjemnij sobie generowanie wielu wykres\IeC {\'o}w za pomoc\IeC {\k a} purrr}{40}{section*.10}
-\contentsline {section}{What drumming taught me about leading a data science team}{41}{section*.10}
+\contentsline {section}{What drumming taught me about leading a data science team}{40}{section*.10}
 \contentsline {section}{Zaw\IeC {\'o}d rodzica a edukacja dziecka - wizualicja wynik\IeC {\'o}w bada\IeC {\'n} PISA}{41}{section*.10}
 \contentsline {chapter}{\numberline {8}Sesja plakatowa}{43}{chapter.8}
 \contentsline {section}{Analizy gleboznawcze w R}{43}{section*.11}
 \contentsline {section}{Competition and tourism drive trade-off between vegetative and generative \\ reproduction of rare mountain species Carex lachenalii Schkuhr}{43}{section*.11}
 \contentsline {section}{Informacja publiczna troch\IeC {\k e} bardziej publiczna - dane z licznik\IeC {\'o}w rower\IeC {\'o}w \\ w Warszawie w Shiny}{44}{section*.11}
-\contentsline {section}{Mood of Music - a machine learning model for classifying mood of music \\ by evaluating characteristic words of songs lyrics}{45}{section*.11}
-\contentsline {section}{TBA}{45}{section*.11}
-\contentsline {chapter}{\numberline {9}Warsztaty}{47}{chapter.9}
-\contentsline {section}{Analiza danych sonda\IeC {\.z}owych w R}{47}{section*.12}
-\contentsline {subsubsection}{Opis warsztatu}{47}{section*.12}
-\contentsline {subsubsection}{Plan warsztatu}{47}{section*.12}
-\contentsline {subsubsection}{Wymagane pakiety}{47}{Item.4}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{48}{Item.4}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{48}{Item.4}
-\contentsline {section}{Z\IeC {\l }o\IeC {\.z}one schematy doboru pr\IeC {\'o}by - pakiet survey}{49}{Item.4}
-\contentsline {subsubsection}{Opis warsztatu}{49}{Item.4}
-\contentsline {subsubsection}{Plan warsztatu}{49}{Item.4}
-\contentsline {subsubsection}{Wymagane pakiety}{50}{Item.26}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{50}{Item.26}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{50}{Item.26}
-\contentsline {section}{Analiza danych sonda\IeC {\.z}owych w R}{51}{Item.26}
-\contentsline {subsubsection}{Opis warsztatu}{51}{Item.26}
-\contentsline {subsubsection}{Plan warsztatu}{51}{Item.26}
-\contentsline {subsubsection}{Wymagane pakiety}{51}{Item.29}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{51}{Item.29}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{51}{Item.29}
-\contentsline {section}{Web scraping w R i nie tylko}{52}{Item.29}
-\contentsline {subsubsection}{Opis warsztatu}{52}{Item.29}
-\contentsline {subsubsection}{Plan warsztatu}{52}{Item.29}
-\contentsline {subsubsection}{Wymagane pakiety}{52}{Item.29}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{52}{Item.29}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{52}{Item.29}
-\contentsline {section}{MicrosoftML - State of the art Machine Learning Microsoft}{53}{Item.29}
-\contentsline {subsubsection}{Opis warsztatu}{53}{Item.29}
-\contentsline {subsubsection}{Plan warsztatu}{53}{Item.29}
-\contentsline {subsubsection}{Wymagane pakiety}{53}{Item.33}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{53}{Item.33}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{53}{Item.33}
-\contentsline {section}{Zastosowanie R w Power BI}{54}{Item.33}
-\contentsline {subsubsection}{Opis warsztatu}{54}{Item.33}
-\contentsline {subsubsection}{Plan warsztatu}{54}{Item.33}
-\contentsline {subsubsection}{Wymagane pakiety}{54}{Item.37}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{54}{Item.37}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{54}{Item.37}
-\contentsline {section}{Machine Learning w R przy u\IeC {\.z}yciu H2O}{55}{Item.37}
-\contentsline {subsubsection}{Opis warsztatu}{55}{Item.37}
-\contentsline {subsubsection}{Plan warsztatu}{55}{Item.37}
-\contentsline {subsubsection}{Wymagane pakiety}{55}{Item.43}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{55}{Item.43}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{55}{Item.43}
-\contentsline {section}{Kombajn do uczenia maszynowego - MLR w praktyce}{56}{Item.43}
-\contentsline {subsubsection}{Opis warsztatu}{56}{Item.43}
-\contentsline {subsubsection}{Plan warsztatu}{56}{Item.43}
-\contentsline {subsubsection}{Wymagane pakiety}{56}{Item.49}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{56}{Item.49}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{56}{Item.51}
-\contentsline {section}{XGBoost rz\IeC {\k a}dzi}{57}{Item.51}
-\contentsline {subsubsection}{Opis warsztatu}{57}{Item.51}
-\contentsline {subsubsection}{Plan warsztatu}{57}{Item.55}
-\contentsline {subsubsection}{Wymagane pakiety}{57}{Item.64}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{57}{Item.64}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{58}{Item.69}
-\contentsline {section}{Klasyfikacja wieloetykietowa z pakietem R}{59}{Item.72}
-\contentsline {subsubsection}{Opis warsztatu}{59}{Item.72}
-\contentsline {subsubsection}{Plan warsztatu}{59}{Item.72}
-\contentsline {subsubsection}{Wymagane pakiety}{59}{Item.74}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{59}{Item.74}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{59}{Item.74}
-\contentsline {section}{Interaktywne wizualizacje w R i plotly - case study}{60}{Item.74}
-\contentsline {subsubsection}{Opis warsztatu}{60}{Item.74}
-\contentsline {subsubsection}{Plan warsztatu}{60}{Item.74}
-\contentsline {subsubsection}{Wymagane pakiety}{60}{Item.82}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{60}{Item.82}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{61}{Item.82}
-\contentsline {section}{Efektywna i efektowna wizualizacja w ggplot2}{62}{Item.82}
-\contentsline {subsubsection}{Opis warsztatu}{62}{Item.82}
-\contentsline {subsubsection}{Plan warsztatu}{62}{Item.82}
-\contentsline {subsubsection}{Wymagane pakiety}{62}{Item.88}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{62}{Item.88}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{62}{Item.88}
-\contentsline {section}{Wr\IeC {\'o}\IeC {\.z}enie z punkt\IeC {\'o}w - ordynacja w eksploracji danych}{63}{Item.88}
-\contentsline {subsubsection}{Opis warsztatu}{63}{Item.88}
-\contentsline {subsubsection}{Plan warsztatu}{63}{Item.92}
-\contentsline {subsubsection}{Wymagane pakiety}{63}{Item.99}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{64}{Item.99}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{64}{Item.99}
-\contentsline {section}{mirt: skalowanie odpowiedzi lepsze ni\IeC {\.z} PCA}{65}{Item.99}
-\contentsline {subsubsection}{Opis warsztatu}{65}{Item.99}
-\contentsline {subsubsection}{Plan warsztatu}{65}{Item.99}
-\contentsline {subsubsection}{Wymagane pakiety}{65}{Item.104}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{65}{Item.104}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{65}{Item.104}
-\contentsline {section}{Social Network Analysis w R}{66}{Item.104}
-\contentsline {subsubsection}{Opis warsztatu}{66}{Item.104}
-\contentsline {subsubsection}{Plan warsztatu}{66}{Item.104}
-\contentsline {subsubsection}{Wymagane pakiety}{66}{Item.110}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{66}{Item.110}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{66}{Item.110}
-\contentsline {section}{Text mining w R}{67}{Item.110}
-\contentsline {subsubsection}{Opis warsztatu}{67}{Item.110}
-\contentsline {subsubsection}{Plan warsztatu}{67}{Item.110}
-\contentsline {subsubsection}{Wymagane pakiety}{67}{Item.113}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{67}{Item.113}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{67}{Item.115}
-\contentsline {section}{Kiedy brakuje wydajno\IeC {\'s}ci... R i C++ = Rcpp}{68}{Item.115}
-\contentsline {subsubsection}{Opis warsztatu}{68}{Item.115}
-\contentsline {subsubsection}{Plan warsztatu}{68}{Item.118}
-\contentsline {subsubsection}{Wymagane pakiety}{68}{Item.126}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{69}{Item.126}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{69}{Item.128}
-\contentsline {section}{Nie pisz kodu, pisz proz\IeC {\k e} - wprowadzenie do pakietu dplyr}{70}{Item.128}
-\contentsline {subsubsection}{Opis warsztatu}{70}{Item.128}
-\contentsline {subsubsection}{Wymagane pakiety}{70}{Item.128}
-\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{70}{Item.128}
-\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{70}{Item.128}
-\contentsline {chapter}{Indeks nazwisk}{71}{section*.13}
+\contentsline {chapter}{\numberline {9}Warsztaty}{45}{chapter.9}
+\contentsline {section}{Analiza danych sonda\IeC {\.z}owych w R}{45}{section*.12}
+\contentsline {subsubsection}{Opis warsztatu}{45}{section*.12}
+\contentsline {subsubsection}{Plan warsztatu}{45}{section*.12}
+\contentsline {subsubsection}{Wymagane pakiety}{45}{Item.4}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{46}{Item.4}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{46}{Item.4}
+\contentsline {section}{Z\IeC {\l }o\IeC {\.z}one schematy doboru pr\IeC {\'o}by - pakiet survey}{47}{Item.4}
+\contentsline {subsubsection}{Opis warsztatu}{47}{Item.4}
+\contentsline {subsubsection}{Plan warsztatu}{47}{Item.4}
+\contentsline {subsubsection}{Wymagane pakiety}{48}{Item.26}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{48}{Item.26}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{48}{Item.26}
+\contentsline {section}{Analiza danych sonda\IeC {\.z}owych w R}{49}{Item.26}
+\contentsline {subsubsection}{Opis warsztatu}{49}{Item.26}
+\contentsline {subsubsection}{Plan warsztatu}{49}{Item.26}
+\contentsline {subsubsection}{Wymagane pakiety}{49}{Item.29}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{49}{Item.29}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{49}{Item.29}
+\contentsline {section}{Web scraping w R i nie tylko}{50}{Item.29}
+\contentsline {subsubsection}{Opis warsztatu}{50}{Item.29}
+\contentsline {subsubsection}{Plan warsztatu}{50}{Item.29}
+\contentsline {subsubsection}{Wymagane pakiety}{50}{Item.29}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{50}{Item.29}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{50}{Item.29}
+\contentsline {section}{MicrosoftML - State of the art Machine Learning Microsoft}{51}{Item.29}
+\contentsline {subsubsection}{Opis warsztatu}{51}{Item.29}
+\contentsline {subsubsection}{Plan warsztatu}{51}{Item.29}
+\contentsline {subsubsection}{Wymagane pakiety}{51}{Item.33}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{51}{Item.33}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{51}{Item.33}
+\contentsline {section}{Zastosowanie R w Power BI}{52}{Item.33}
+\contentsline {subsubsection}{Opis warsztatu}{52}{Item.33}
+\contentsline {subsubsection}{Plan warsztatu}{52}{Item.33}
+\contentsline {subsubsection}{Wymagane pakiety}{52}{Item.37}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{52}{Item.37}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{52}{Item.37}
+\contentsline {section}{Machine Learning w R przy u\IeC {\.z}yciu H2O}{53}{Item.37}
+\contentsline {subsubsection}{Opis warsztatu}{53}{Item.37}
+\contentsline {subsubsection}{Plan warsztatu}{53}{Item.37}
+\contentsline {subsubsection}{Wymagane pakiety}{53}{Item.43}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{53}{Item.43}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{53}{Item.43}
+\contentsline {section}{Kombajn do uczenia maszynowego - MLR w praktyce}{54}{Item.43}
+\contentsline {subsubsection}{Opis warsztatu}{54}{Item.43}
+\contentsline {subsubsection}{Plan warsztatu}{54}{Item.43}
+\contentsline {subsubsection}{Wymagane pakiety}{54}{Item.49}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{54}{Item.49}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{54}{Item.51}
+\contentsline {section}{XGBoost rz\IeC {\k a}dzi}{55}{Item.51}
+\contentsline {subsubsection}{Opis warsztatu}{55}{Item.51}
+\contentsline {subsubsection}{Plan warsztatu}{55}{Item.55}
+\contentsline {subsubsection}{Wymagane pakiety}{55}{Item.64}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{55}{Item.64}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{56}{Item.69}
+\contentsline {section}{Klasyfikacja wieloetykietowa z pakietem R}{57}{Item.72}
+\contentsline {subsubsection}{Opis warsztatu}{57}{Item.72}
+\contentsline {subsubsection}{Plan warsztatu}{57}{Item.72}
+\contentsline {subsubsection}{Wymagane pakiety}{57}{Item.74}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{57}{Item.74}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{57}{Item.74}
+\contentsline {section}{Interaktywne wizualizacje w R i plotly - case study}{58}{Item.74}
+\contentsline {subsubsection}{Opis warsztatu}{58}{Item.74}
+\contentsline {subsubsection}{Plan warsztatu}{58}{Item.74}
+\contentsline {subsubsection}{Wymagane pakiety}{58}{Item.82}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{58}{Item.82}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{59}{Item.82}
+\contentsline {section}{Efektywna i efektowna wizualizacja w ggplot2}{60}{Item.82}
+\contentsline {subsubsection}{Opis warsztatu}{60}{Item.82}
+\contentsline {subsubsection}{Plan warsztatu}{60}{Item.82}
+\contentsline {subsubsection}{Wymagane pakiety}{60}{Item.88}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{60}{Item.88}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{60}{Item.88}
+\contentsline {section}{Wr\IeC {\'o}\IeC {\.z}enie z punkt\IeC {\'o}w - ordynacja w eksploracji danych}{61}{Item.88}
+\contentsline {subsubsection}{Opis warsztatu}{61}{Item.88}
+\contentsline {subsubsection}{Plan warsztatu}{61}{Item.92}
+\contentsline {subsubsection}{Wymagane pakiety}{61}{Item.99}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{62}{Item.99}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{62}{Item.99}
+\contentsline {section}{mirt: skalowanie odpowiedzi lepsze ni\IeC {\.z} PCA}{63}{Item.99}
+\contentsline {subsubsection}{Opis warsztatu}{63}{Item.99}
+\contentsline {subsubsection}{Plan warsztatu}{63}{Item.99}
+\contentsline {subsubsection}{Wymagane pakiety}{63}{Item.104}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{63}{Item.104}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{63}{Item.104}
+\contentsline {section}{Social Network Analysis w R}{64}{Item.104}
+\contentsline {subsubsection}{Opis warsztatu}{64}{Item.104}
+\contentsline {subsubsection}{Plan warsztatu}{64}{Item.104}
+\contentsline {subsubsection}{Wymagane pakiety}{64}{Item.110}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{64}{Item.110}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{64}{Item.110}
+\contentsline {section}{Text mining w R}{65}{Item.110}
+\contentsline {subsubsection}{Opis warsztatu}{65}{Item.110}
+\contentsline {subsubsection}{Plan warsztatu}{65}{Item.110}
+\contentsline {subsubsection}{Wymagane pakiety}{65}{Item.113}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{65}{Item.113}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{65}{Item.115}
+\contentsline {section}{Kiedy brakuje wydajno\IeC {\'s}ci... R i C++ = Rcpp}{66}{Item.115}
+\contentsline {subsubsection}{Opis warsztatu}{66}{Item.115}
+\contentsline {subsubsection}{Plan warsztatu}{66}{Item.118}
+\contentsline {subsubsection}{Wymagane pakiety}{66}{Item.126}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{67}{Item.126}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{67}{Item.128}
+\contentsline {section}{Nie pisz kodu, pisz proz\IeC {\k e} - wprowadzenie do pakietu dplyr}{68}{Item.128}
+\contentsline {subsubsection}{Opis warsztatu}{68}{Item.128}
+\contentsline {subsubsection}{Wymagane pakiety}{68}{Item.128}
+\contentsline {subsubsection}{Wymagane od uczestnik\IeC {\'o}w umiej\IeC {\k e}tno\IeC {\'s}ci i wiedza}{68}{Item.128}
+\contentsline {subsubsection}{Wymagania wst\IeC {\k e}pne do wykonania przed warsztatem}{68}{Item.128}
+\contentsline {chapter}{Indeks nazwisk}{69}{section*.13}

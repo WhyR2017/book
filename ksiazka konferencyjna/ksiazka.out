@@ -48,7 +48,7 @@
 \BOOKMARK [2][-]{section*.8}{Podejmowanie decyzji w R - w warunkach pewnosci, ryzyko oraz niepewnosci}{section*.7}% 48
 \BOOKMARK [1][-]{section*.8}{Spo\233ecznosci}{chapter.6}% 49
 \BOOKMARK [1][-]{section*.8}{R w dzia\233aniu}{chapter.6}% 50
-\BOOKMARK [2][-]{section*.9}{R-Ladies Warsaw}{section*.8}% 51
+\BOOKMARK [2][-]{section*.9}{Uprzyjemnij sobie generowanie wielu wykres\363w za pomoca purrr}{section*.8}% 51
 \BOOKMARK [2][-]{section*.9}{Projekt R w Google Summer of Code: okiem mentora}{section*.8}% 52
 \BOOKMARK [2][-]{section*.9}{Planowanie pojemnosci i wydajnosci w celu przeciwdzia\233ania awariom}{section*.8}% 53
 \BOOKMARK [2][-]{section*.9}{Jak wygrac wiecej w lotto z R?}{section*.8}% 54
@@ -56,32 +56,29 @@
 \BOOKMARK [1][-]{section*.10}{Lasy z inwazyjnym debem czerwonym w swietle analiz wielowymiarowych \040przy uzyciu R }{chapter.7}% 56
 \BOOKMARK [1][-]{section*.10}{FasteR - kiedy warto przeniesc obliczenia na superkomputery?}{chapter.7}% 57
 \BOOKMARK [1][-]{section*.10}{SparkR - wydajne obliczenia w chmurze}{chapter.7}% 58
-\BOOKMARK [1][-]{section*.10}{Uprzyjemnij sobie generowanie wielu wykres\363w za pomoca purrr}{chapter.7}% 59
-\BOOKMARK [1][-]{section*.10}{What drumming taught me about leading a data science team}{chapter.7}% 60
-\BOOKMARK [1][-]{section*.10}{Zaw\363d rodzica a edukacja dziecka - wizualicja wynik\363w badan PISA}{chapter.7}% 61
-\BOOKMARK [0][-]{chapter.8}{Sesja plakatowa}{}% 62
-\BOOKMARK [1][-]{section*.11}{Analizy gleboznawcze w R}{chapter.8}% 63
-\BOOKMARK [1][-]{section*.11}{Competition and tourism drive trade-off between vegetative and generative \040reproduction of rare mountain species Carex lachenalii Schkuhr}{chapter.8}% 64
-\BOOKMARK [1][-]{section*.11}{Informacja publiczna troche bardziej publiczna - dane z licznik\363w rower\363w \040w Warszawie w Shiny}{chapter.8}% 65
-\BOOKMARK [1][-]{section*.11}{Mood of Music - a machine learning model for classifying mood of music \040by evaluating characteristic words of songs lyrics}{chapter.8}% 66
-\BOOKMARK [1][-]{section*.11}{TBA}{chapter.8}% 67
-\BOOKMARK [0][-]{chapter.9}{Warsztaty}{}% 68
-\BOOKMARK [1][-]{section*.12}{Analiza danych sondazowych w R}{chapter.9}% 69
-\BOOKMARK [1][-]{Item.4}{Z\233ozone schematy doboru pr\363by - pakiet survey}{chapter.9}% 70
-\BOOKMARK [1][-]{Item.26}{Analiza danych sondazowych w R}{chapter.9}% 71
-\BOOKMARK [1][-]{Item.29}{Web scraping w R i nie tylko}{chapter.9}% 72
-\BOOKMARK [1][-]{Item.29}{MicrosoftML - State of the art Machine Learning Microsoft}{chapter.9}% 73
-\BOOKMARK [1][-]{Item.33}{Zastosowanie R w Power BI}{chapter.9}% 74
-\BOOKMARK [1][-]{Item.37}{Machine Learning w R przy uzyciu H2O}{chapter.9}% 75
-\BOOKMARK [1][-]{Item.43}{Kombajn do uczenia maszynowego - MLR w praktyce}{chapter.9}% 76
-\BOOKMARK [1][-]{Item.51}{XGBoost rzadzi}{chapter.9}% 77
-\BOOKMARK [1][-]{Item.72}{Klasyfikacja wieloetykietowa z pakietem R}{chapter.9}% 78
-\BOOKMARK [1][-]{Item.74}{Interaktywne wizualizacje w R i plotly - case study}{chapter.9}% 79
-\BOOKMARK [1][-]{Item.82}{Efektywna i efektowna wizualizacja w ggplot2}{chapter.9}% 80
-\BOOKMARK [1][-]{Item.88}{Wr\363zenie z punkt\363w - ordynacja w eksploracji danych}{chapter.9}% 81
-\BOOKMARK [1][-]{Item.99}{mirt: skalowanie odpowiedzi lepsze niz PCA}{chapter.9}% 82
-\BOOKMARK [1][-]{Item.104}{Social Network Analysis w R}{chapter.9}% 83
-\BOOKMARK [1][-]{Item.110}{Text mining w R}{chapter.9}% 84
-\BOOKMARK [1][-]{Item.115}{Kiedy brakuje wydajnosci... R i C++ = Rcpp}{chapter.9}% 85
-\BOOKMARK [1][-]{Item.128}{Nie pisz kodu, pisz proze - wprowadzenie do pakietu dplyr}{chapter.9}% 86
-\BOOKMARK [0][-]{section*.13}{Indeks nazwisk}{}% 87
+\BOOKMARK [1][-]{section*.10}{What drumming taught me about leading a data science team}{chapter.7}% 59
+\BOOKMARK [1][-]{section*.10}{Zaw\363d rodzica a edukacja dziecka - wizualicja wynik\363w badan PISA}{chapter.7}% 60
+\BOOKMARK [0][-]{chapter.8}{Sesja plakatowa}{}% 61
+\BOOKMARK [1][-]{section*.11}{Analizy gleboznawcze w R}{chapter.8}% 62
+\BOOKMARK [1][-]{section*.11}{Competition and tourism drive trade-off between vegetative and generative \040reproduction of rare mountain species Carex lachenalii Schkuhr}{chapter.8}% 63
+\BOOKMARK [1][-]{section*.11}{Informacja publiczna troche bardziej publiczna - dane z licznik\363w rower\363w \040w Warszawie w Shiny}{chapter.8}% 64
+\BOOKMARK [0][-]{chapter.9}{Warsztaty}{}% 65
+\BOOKMARK [1][-]{section*.12}{Analiza danych sondazowych w R}{chapter.9}% 66
+\BOOKMARK [1][-]{Item.4}{Z\233ozone schematy doboru pr\363by - pakiet survey}{chapter.9}% 67
+\BOOKMARK [1][-]{Item.26}{Analiza danych sondazowych w R}{chapter.9}% 68
+\BOOKMARK [1][-]{Item.29}{Web scraping w R i nie tylko}{chapter.9}% 69
+\BOOKMARK [1][-]{Item.29}{MicrosoftML - State of the art Machine Learning Microsoft}{chapter.9}% 70
+\BOOKMARK [1][-]{Item.33}{Zastosowanie R w Power BI}{chapter.9}% 71
+\BOOKMARK [1][-]{Item.37}{Machine Learning w R przy uzyciu H2O}{chapter.9}% 72
+\BOOKMARK [1][-]{Item.43}{Kombajn do uczenia maszynowego - MLR w praktyce}{chapter.9}% 73
+\BOOKMARK [1][-]{Item.51}{XGBoost rzadzi}{chapter.9}% 74
+\BOOKMARK [1][-]{Item.72}{Klasyfikacja wieloetykietowa z pakietem R}{chapter.9}% 75
+\BOOKMARK [1][-]{Item.74}{Interaktywne wizualizacje w R i plotly - case study}{chapter.9}% 76
+\BOOKMARK [1][-]{Item.82}{Efektywna i efektowna wizualizacja w ggplot2}{chapter.9}% 77
+\BOOKMARK [1][-]{Item.88}{Wr\363zenie z punkt\363w - ordynacja w eksploracji danych}{chapter.9}% 78
+\BOOKMARK [1][-]{Item.99}{mirt: skalowanie odpowiedzi lepsze niz PCA}{chapter.9}% 79
+\BOOKMARK [1][-]{Item.104}{Social Network Analysis w R}{chapter.9}% 80
+\BOOKMARK [1][-]{Item.110}{Text mining w R}{chapter.9}% 81
+\BOOKMARK [1][-]{Item.115}{Kiedy brakuje wydajnosci... R i C++ = Rcpp}{chapter.9}% 82
+\BOOKMARK [1][-]{Item.128}{Nie pisz kodu, pisz proze - wprowadzenie do pakietu dplyr}{chapter.9}% 83
+\BOOKMARK [0][-]{section*.13}{Indeks nazwisk}{}% 84
