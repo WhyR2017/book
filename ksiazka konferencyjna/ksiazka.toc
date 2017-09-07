@@ -25,10 +25,10 @@
 \contentsline {subsection}{Relacje mi\IeC {\k e}dzy lasem a klimatem w r\IeC {\'o}\IeC {\.z}nych skalach przestrzennych \IeC {\textendash } jak to ugRy\IeC {\'z}\IeC {\'c}?}{20}{section*.4}
 \contentsline {subsection}{Wyd\IeC {\'z}wi\IeC {\k e}k artyku\IeC {\l }\IeC {\'o}w prasowych jako narz\IeC {\k e}dzie wspomagaj\IeC {\k a}ce predykcyje kondycji finansowej przedsi\IeC {\k e}biorstw}{21}{section*.4}
 \contentsline {subsection}{FSelectorRcpp \IeC {\textendash } wolna od Java/Weka implementacja pakietu FSelector}{21}{section*.4}
-\contentsline {subsection}{Analiza sentyment\IeC {\'o}w przy u\IeC {\.z}yciu bibliotek Microsoft}{22}{section*.4}
+\contentsline {subsection}{Analiza sentymentu przy u\IeC {\.z}yciu bibliotek Microsoft}{22}{section*.4}
 \contentsline {section}{Modelowanie Ryzyka (UBS)}{22}{section*.4}
 \contentsline {subsection}{ Modelowanie ryzyka kredytowego z wykorzystaniem panelowej regresji liniowej}{22}{section*.5}
-\contentsline {subsection}{Agregacja rozk\IeC {\l }ad\IeC {\'o}w przy pomocy kopul}{22}{section*.5}
+\contentsline {subsection}{Agregacja rozk\IeC {\l }ad\IeC {\'o}w przy pomocy kopul}{23}{section*.5}
 \contentsline {subsection}{Zastosowanie analizy szereg\IeC {\'o}w czasowych w modelowaniu ryzyka niesp\IeC {\l }acalno\IeC {\'s}ci}{23}{section*.5}
 \contentsline {section}{Biostatystyka}{24}{section*.5}
 \contentsline {subsection}{Identyfikacja i analiza barier przeciwko introgresji pomiedzy gatunkami ro\IeC {\'s}lin z rodzaju Capsella (Tasznik)}{24}{section*.6}
@@ -36,10 +36,10 @@
 \contentsline {subsection}{Metylacja DNA i ekspresja genu na przyk\IeC {\l }adzie danych RTCGA.}{24}{section*.6}
 \contentsline {subsection}{survminer - wykresy analizy prze\IeC {\.z}ycia pe\IeC {\l }ne informacji i elegancji}{25}{section*.6}
 \contentsline {subsection}{Podstawy przetwarzania i analizy obraz\IeC {\'o}w w R }{25}{section*.6}
-\contentsline {section}{Biznes}{25}{section*.6}
-\contentsline {subsection}{Wyzwania stawiane przez technologie open source w biznesie}{25}{section*.7}
+\contentsline {section}{Biznes}{26}{section*.6}
+\contentsline {subsection}{Wyzwania stawiane przez technologie open source w biznesie}{26}{section*.7}
 \contentsline {subsection}{Kiedy data.frame po\IeC {\.z}era Workfile, czyli o tym jak przeprowadzamy stadko ekonometryk\IeC {\'o}w z klikania w EViewsie do pisania w R}{26}{section*.7}
-\contentsline {subsection}{Czy R (kiedy\IeC {\'s}) zast\IeC {\k a}pi SPSS?}{26}{section*.7}
+\contentsline {subsection}{Czy R (kiedy\IeC {\'s}) zast\IeC {\k a}pi SPSS?}{27}{section*.7}
 \contentsline {subsection}{R a dane w chmurze}{27}{section*.7}
 \contentsline {subsection}{Podejmowanie decyzji w R - w warunkach pewno\IeC {\'s}ci, ryzyko oraz niepewno\IeC {\'s}ci}{27}{section*.7}
 \contentsline {section}{Spo\IeC {\l }eczno\IeC {\'s}ci}{28}{section*.7}
@@ -50,11 +50,11 @@
 \contentsline {subsection}{Jak wygra\IeC {\'c} wi\IeC {\k e}cej w lotto z R?}{29}{section*.8}
 \contentsline {chapter}{\numberline {6}Lightning Talks}{31}{chapter.6}
 \contentsline {section}{Lasy z inwazyjnym d\IeC {\k e}bem czerwonym w \IeC {\'s}wietle analiz wielowymiarowych przy u\IeC {\.z}yciu R }{31}{section*.9}
-\contentsline {section}{Machine learning i postprocessing danych meteorologicznych w R}{32}{section*.9}
+\contentsline {section}{FasteR - kiedy warto przenie\IeC {\'s}\IeC {\'c} obliczenia na superkomputery?}{32}{section*.9}
 \contentsline {section}{SparkR - wydajne obliczenia w chmurze}{32}{section*.9}
-\contentsline {section}{Uprzyjemnij sobie generowanie wielu wykres\IeC {\'o}w za pomoc\IeC {\k a} purrr}{32}{section*.9}
+\contentsline {section}{Uprzyjemnij sobie generowanie wielu wykres\IeC {\'o}w za pomoc\IeC {\k a} purrr}{33}{section*.9}
 \contentsline {section}{What drumming taught me about leading a data science team}{33}{section*.9}
-\contentsline {section}{Zaw\IeC {\'o}d rodzica a edukacja dziecka - wizualicja wynik\IeC {\'o}w bada\IeC {\'n} PISA}{33}{section*.9}
+\contentsline {section}{Zaw\IeC {\'o}d rodzica a edukacja dziecka - wizualicja wynik\IeC {\'o}w bada\IeC {\'n} PISA}{34}{section*.9}
 \contentsline {chapter}{\numberline {7}Sesja plakatowa}{35}{chapter.7}
 \contentsline {section}{Analizy gleboznawcze w R}{35}{section*.10}
 \contentsline {section}{Competition and tourism drive trade-off between vegetative and generative reproduction of rare mountain species Carex lachenalii Schkuhr}{35}{section*.10}

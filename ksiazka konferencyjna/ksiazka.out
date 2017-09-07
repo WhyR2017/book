@@ -25,7 +25,7 @@
 \BOOKMARK [2][-]{section*.4}{Relacje miedzy lasem a klimatem w r\363znych skalach przestrzennych \205 jak to ugRyzc?}{section*.3}% 25
 \BOOKMARK [2][-]{section*.4}{Wydzwiek artyku\233\363w prasowych jako narzedzie wspomagajace predykcyje kondycji finansowej przedsiebiorstw}{section*.3}% 26
 \BOOKMARK [2][-]{section*.4}{FSelectorRcpp \205 wolna od Java/Weka implementacja pakietu FSelector}{section*.3}% 27
-\BOOKMARK [2][-]{section*.4}{Analiza sentyment\363w przy uzyciu bibliotek Microsoft}{section*.3}% 28
+\BOOKMARK [2][-]{section*.4}{Analiza sentymentu przy uzyciu bibliotek Microsoft}{section*.3}% 28
 \BOOKMARK [1][-]{section*.4}{Modelowanie Ryzyka \(UBS\)}{chapter.5}% 29
 \BOOKMARK [2][-]{section*.5}{ Modelowanie ryzyka kredytowego z wykorzystaniem panelowej regresji liniowej}{section*.4}% 30
 \BOOKMARK [2][-]{section*.5}{Agregacja rozk\233ad\363w przy pomocy kopul}{section*.4}% 31
@@ -50,7 +50,7 @@
 \BOOKMARK [2][-]{section*.8}{Jak wygrac wiecej w lotto z R?}{section*.7}% 50
 \BOOKMARK [0][-]{chapter.6}{Lightning Talks}{}% 51
 \BOOKMARK [1][-]{section*.9}{Lasy z inwazyjnym debem czerwonym w swietle analiz wielowymiarowych przy uzyciu R }{chapter.6}% 52
-\BOOKMARK [1][-]{section*.9}{Machine learning i postprocessing danych meteorologicznych w R}{chapter.6}% 53
+\BOOKMARK [1][-]{section*.9}{FasteR - kiedy warto przeniesc obliczenia na superkomputery?}{chapter.6}% 53
 \BOOKMARK [1][-]{section*.9}{SparkR - wydajne obliczenia w chmurze}{chapter.6}% 54
 \BOOKMARK [1][-]{section*.9}{Uprzyjemnij sobie generowanie wielu wykres\363w za pomoca purrr}{chapter.6}% 55
 \BOOKMARK [1][-]{section*.9}{What drumming taught me about leading a data science team}{chapter.6}% 56
