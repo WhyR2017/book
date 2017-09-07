@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.13)  7 SEP 2017 10:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.13)  7 SEP 2017 18:04
 entering extended mode
 **ksiazka.tex
 
@@ -82,13 +82,21 @@ s
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
 pages
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen111
+\enit@toks=\toks16
+\enit@inbox=\box26
+\enitdp@description=\count91
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfiles\subfiles.sty"
 Package: subfiles 2012/05/23 Federico Garcia
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks16
-\verbatim@line=\toks17
+\every@verbatim=\toks17
+\verbatim@line=\toks18
 \verbatim@in@stream=\read1
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
@@ -143,14 +151,14 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen111
-\Hy@linkcounter=\count91
-\Hy@pagecounter=\count92
+\@linkdim=\dimen112
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count93
+\Hy@SavedSpaceFactor=\count94
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -162,17 +170,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count94
+\c@Hy@tempcnt=\count95
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen112
-\Fld@menulength=\count95
-\Field@Width=\dimen113
-\Fld@charsize=\dimen114
+\XeTeXLinkMargin=\dimen113
+\Fld@menulength=\count96
+\Field@Width=\dimen114
+\Fld@charsize=\dimen115
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -182,54 +190,54 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count96
-\c@Item=\count97
-\c@Hfootnote=\count98
+\Hy@abspage=\count97
+\c@Item=\count98
+\c@Hfootnote=\count99
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count99
-\c@bookmark@seq@number=\count100
+\Fld@listcount=\count100
+\c@bookmark@seq@number=\count101
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip52
+\Hy@SectionHShift=\skip53
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box26
-\beforetitleunit=\skip53
-\aftertitleunit=\skip54
-\ttl@plus=\dimen115
-\ttl@minus=\dimen116
-\ttl@toksa=\toks18
-\titlewidth=\dimen117
-\titlewidthlast=\dimen118
-\titlewidthfirst=\dimen119
+\ttl@box=\box27
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen116
+\ttl@minus=\dimen117
+\ttl@toksa=\toks19
+\titlewidth=\dimen118
+\titlewidthlast=\dimen119
+\titlewidthfirst=\dimen120
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip55
-\LTright=\skip56
-\LTpre=\skip57
-\LTpost=\skip58
-\LTchunksize=\count101
-\LTcapwidth=\dimen120
-\LT@head=\box27
-\LT@firsthead=\box28
-\LT@foot=\box29
-\LT@lastfoot=\box30
-\LT@cols=\count102
-\LT@rows=\count103
-\c@LT@tables=\count104
-\c@LT@chunks=\count105
-\LT@p@ftn=\toks19
+\LTleft=\skip56
+\LTright=\skip57
+\LTpre=\skip58
+\LTpost=\skip59
+\LTchunksize=\count102
+\LTcapwidth=\dimen121
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count103
+\LT@rows=\count104
+\c@LT@tables=\count105
+\c@LT@chunks=\count106
+\LT@p@ftn=\toks20
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
 Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
@@ -250,15 +258,18 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count106
+\Gread@gobject=\count107
 )))
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\afterpage.sty"
 Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
-\AP@output=\toks20
-\AP@partial=\box31
-\AP@footins=\box32
+\AP@output=\toks21
+\AP@partial=\box32
+\AP@footins=\box33
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+Package: parskip 2001/04/09 non-zero parskip adjustments
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\imakeidx\imakeidx.sty"
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
@@ -268,34 +279,33 @@ nous mode
 Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
-\XKV@toks=\toks21
-\XKV@tempa@toks=\toks22
-\XKV@depth=\count107
+\XKV@toks=\toks22
+\XKV@tempa@toks=\toks23
+\XKV@depth=\count108
 File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
-\c@tracingmulticols=\count108
-\mult@box=\box33
-\multicol@leftmargin=\dimen121
-\c@unbalance=\count109
-\c@collectmore=\count110
-\doublecol@number=\count111
-\multicoltolerance=\count112
-\multicolpretolerance=\count113
-\full@width=\dimen122
-\page@free=\dimen123
-\premulticols=\dimen124
-\postmulticols=\dimen125
-\multicolsep=\skip59
-\multicolbaselineskip=\skip60
-\partial@page=\box34
-\last@line=\box35
-\mult@rightbox=\box36
-\mult@grightbox=\box37
-\mult@gfirstbox=\box38
-\mult@firstbox=\box39
-\@tempa=\box40
+\c@tracingmulticols=\count109
+\mult@box=\box34
+\multicol@leftmargin=\dimen122
+\c@unbalance=\count110
+\c@collectmore=\count111
+\doublecol@number=\count112
+\multicoltolerance=\count113
+\multicolpretolerance=\count114
+\full@width=\dimen123
+\page@free=\dimen124
+\premulticols=\dimen125
+\postmulticols=\dimen126
+\multicolsep=\skip60
+\multicolbaselineskip=\skip61
+\partial@page=\box35
+\last@line=\box36
+\mult@rightbox=\box37
+\mult@grightbox=\box38
+\mult@gfirstbox=\box39
+\mult@firstbox=\box40
 \@tempa=\box41
 \@tempa=\box42
 \@tempa=\box43
@@ -312,22 +322,23 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \@tempa=\box54
 \@tempa=\box55
 \@tempa=\box56
-\c@columnbadness=\count114
-\c@finalcolumnbadness=\count115
-\last@try=\dimen126
-\multicolovershoot=\dimen127
-\multicolundershoot=\dimen128
-\mult@nat@firstbox=\box57
-\colbreak@box=\box58
-\multicol@sort@counter=\count116
+\@tempa=\box57
+\c@columnbadness=\count115
+\c@finalcolumnbadness=\count116
+\last@try=\dimen127
+\multicolovershoot=\dimen128
+\multicolundershoot=\dimen129
+\mult@nat@firstbox=\box58
+\colbreak@box=\box59
+\multicol@sort@counter=\count117
 ))
 \a@idxfile=\write3
 
 Writing index file a.idx
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks23
-\inpenc@posthook=\toks24
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
@@ -552,11 +563,11 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box59
+\@eurobox=\box60
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks25
+\@emptytoks=\toks26
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
@@ -564,7 +575,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
-\@mathmargin=\skip61
+\@mathmargin=\skip62
 
 For additional information on amsmath, use the `?' option.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
@@ -572,84 +583,81 @@ Package: amstext 2000/06/29 v2.01
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks26
-\ex@=\dimen129
+\@emptytoks=\toks27
+\ex@=\dimen130
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen130
+\pmbraise@=\dimen131
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count117
+\inf@bad=\count118
 LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count118
-\leftroot@=\count119
+\uproot@=\count119
+\leftroot@=\count120
 LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count120
-\DOTSCASE@=\count121
+\classnum@=\count121
+\DOTSCASE@=\count122
 LaTeX Info: Redefining \ldots on input line 378.
 LaTeX Info: Redefining \dots on input line 381.
 LaTeX Info: Redefining \cdots on input line 466.
-\Mathstrutbox@=\box60
-\strutbox@=\box61
-\big@size=\dimen131
+\Mathstrutbox@=\box61
+\strutbox@=\box62
+\big@size=\dimen132
 LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count122
-\c@MaxMatrixCols=\count123
+\macc@depth=\count123
+\c@MaxMatrixCols=\count124
 \dotsspace@=\muskip11
-\c@parentequation=\count124
-\dspbrk@lvl=\count125
-\tag@help=\toks27
-\row@=\count126
-\column@=\count127
-\maxfields@=\count128
-\andhelp@=\toks28
-\eqnshift@=\dimen132
-\alignsep@=\dimen133
-\tagshift@=\dimen134
-\tagwidth@=\dimen135
-\totwidth@=\dimen136
-\lineht@=\dimen137
-\@envbody=\toks29
-\multlinegap=\skip62
-\multlinetaggap=\skip63
-\mathdisplay@stack=\toks30
+\c@parentequation=\count125
+\dspbrk@lvl=\count126
+\tag@help=\toks28
+\row@=\count127
+\column@=\count128
+\maxfields@=\count129
+\andhelp@=\toks29
+\eqnshift@=\dimen133
+\alignsep@=\dimen134
+\tagshift@=\dimen135
+\tagwidth@=\dimen136
+\totwidth@=\dimen137
+\lineht@=\dimen138
+\@envbody=\toks30
+\multlinegap=\skip63
+\multlinetaggap=\skip64
+\mathdisplay@stack=\toks31
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hanging\hanging.sty"
 Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
-\h@ngcommawd=\skip64
-\h@ngfstopwd=\skip65
-\h@ngquotewd=\skip66
-\h@ngdquotewd=\skip67
-\h@ngquerywd=\skip68
-\h@ngexclwd=\skip69
-\h@ngcolonwd=\skip70
-\h@ngscolonwd=\skip71
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
-Package: parskip 2001/04/09 non-zero parskip adjustments
+\h@ngcommawd=\skip65
+\h@ngfstopwd=\skip66
+\h@ngquotewd=\skip67
+\h@ngdquotewd=\skip68
+\h@ngquerywd=\skip69
+\h@ngexclwd=\skip70
+\h@ngcolonwd=\skip71
+\h@ngscolonwd=\skip72
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\times.sty"
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip72
-\bibsep=\skip73
+\bibhang=\skip73
+\bibsep=\skip74
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count129
+\c@NAT@ctr=\count130
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen138
-\Gin@req@width=\dimen139
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 39.
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
 Package: pdfpages 2017/08/14 v0.5k Insert pages of external PDF documents (AM)
@@ -659,16 +667,16 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count130
-\calc@Bcount=\count131
-\calc@Adimen=\dimen140
-\calc@Bdimen=\dimen141
-\calc@Askip=\skip74
-\calc@Bskip=\skip75
+\calc@Acount=\count131
+\calc@Bcount=\count132
+\calc@Adimen=\dimen141
+\calc@Bdimen=\dimen142
+\calc@Askip=\skip75
+\calc@Bskip=\skip76
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count132
-\calc@Cskip=\skip76
+\calc@Ccount=\count133
+\calc@Cskip=\skip77
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
@@ -690,38 +698,38 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ))
-\AM@pagewidth=\dimen142
-\AM@pageheight=\dimen143
+\AM@pagewidth=\dimen143
+\AM@pageheight=\dimen144
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
 File: pppdftex.def 2017/08/14 v0.5k Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagebox=\box62
-\AM@global@opts=\toks31
-\AM@toc@title=\toks32
-\c@AM@survey=\count133
-\AM@templatesizebox=\box63
+\AM@pagebox=\box63
+\AM@global@opts=\toks32
+\AM@toc@title=\toks33
+\c@AM@survey=\count134
+\AM@templatesizebox=\box64
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\block.tss"
 File: block.tss 2016/03/15
 )
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\ksiazka.a
 ux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 86.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
+LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 95.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -733,15 +741,15 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(56.9055pt, 386.95749pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 597.50789pt, 56.9055pt)
+* h-part:(L,W,R)=(56.9055pt, 383.77016pt, 60.09283pt)
+* v-part:(T,H,B)=(28.45274pt, 640.18703pt, 42.67912pt)
 * \paperwidth=500.7685pt
 * \paperheight=711.3189pt
-* \textwidth=386.95749pt
-* \textheight=597.50789pt
+* \textwidth=383.77016pt
+* \textheight=640.18703pt
 * \oddsidemargin=-5.69054pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-47.23828pt
+* \evensidemargin=-12.17715pt
+* \topmargin=-75.69104pt
 * \headheight=12.0pt
 * \headsep=19.8738pt
 * \topskip=11.0pt
@@ -759,19 +767,19 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring ON on input line 86.
+\AtBeginShipoutBox=\box65
+Package hyperref Info: Link coloring ON on input line 95.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count134
+\c@section@level=\count135
 )
-LaTeX Info: Redefining \ref on input line 86.
-LaTeX Info: Redefining \pageref on input line 86.
-LaTeX Info: Redefining \nameref on input line 86.
+LaTeX Info: Redefining \ref on input line 95.
+LaTeX Info: Redefining \pageref on input line 95.
+LaTeX Info: Redefining \nameref on input line 95.
 
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\ksiazka.o
 ut")
@@ -780,51 +788,51 @@ ut")
 \@outlinefile=\write4
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count135
-\scratchdimen=\dimen144
-\scratchbox=\box65
-\nofMPsegments=\count136
-\nofMParguments=\count137
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count138
-\MPscratchDim=\dimen145
-\MPnumerator=\count139
-\makeMPintoPDFobject=\count140
-\everyMPtoPDFconversion=\toks34
-) <figs/okladka.pdf, id=287, 597.55246pt x 845.07718pt>
+\scratchcounter=\count136
+\scratchdimen=\dimen145
+\scratchbox=\box66
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count139
+\MPscratchDim=\dimen146
+\MPnumerator=\count140
+\makeMPintoPDFobject=\count141
+\everyMPtoPDFconversion=\toks35
+) <figs/okladka.pdf, id=301, 597.55246pt x 845.07718pt>
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf>
-Package pdftex.def Info: figs/okladka.pdf used on input line 88.
+Package pdftex.def Info: figs/okladka.pdf used on input line 97.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf>
-Package pdftex.def Info: figs/okladka.pdf used on input line 88.
+Package pdftex.def Info: figs/okladka.pdf used on input line 97.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
-<figs/okladka.pdf, id=290, page=1, 597.55246pt x 845.07718pt>
+<figs/okladka.pdf, id=304, page=1, 597.55246pt x 845.07718pt>
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 88.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 97.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 88.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 97.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 88.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 97.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 88.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 97.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 88.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 97.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
  [1
 
@@ -833,12 +841,12 @@ dka.pdf>] [2
 
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 95.
+LaTeX Font Info:    Try loading font information for U+msa on input line 104.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 95.
+LaTeX Font Info:    Try loading font information for U+msb on input line 104.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -848,49 +856,61 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 97.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 108.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 97.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 108.
 
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\ksiazka.t
 oc"
-Overfull \hbox (2.81035pt too wide) in paragraph at lines 26--26
+Overfull \hbox (5.99768pt too wide) in paragraph at lines 40--40
  [][] [][]\T1/ptm/m/n/10 Wyd¹wi¦k artykuªów pra-sowych jako narz¦dzie wspo-ma-g
 a-j¡ce predyk-cyje kondy- 
  []
 
-[3]
-Overfull \hbox (8.66989pt too wide) in paragraph at lines 41--41
+[1
+
+]
+Overfull \hbox (11.85722pt too wide) in paragraph at lines 55--55
  [][] [][]\T1/ptm/m/n/10 Kiedy data.frame po»era Work-file, czyli o tym jak prz
 eprowadzamy stadko ekonom- 
  []
 
-[4])
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 ...owadzenie do pakietu dplyr}{71}{Item.128}
+                                                   [2])
 \tf@toc=\write5
- [5] [6
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.109 \cleardoublepage
+                       [3]pdfTeX warning (ext4): destination with the same iden
+tifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.109 \cleardoublepage
+                       [4
 
 ]
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 102.
-
-Overfull \hbox (12.34059pt too wide) in paragraph at lines 118--119
-[]\T1/ptm/m/n/10.95 Aleksandra D¡browska, \T1/ptm/m/it/10.95 Wydziaª Matem-atyk
-i, In-for-matyki i Mechaniki, Uni-w-er-sytet Warsza-
- []
-
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 115.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.134 \chapter
+l.147 \chapter
               {WstÄ™p} [1
+
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.134 \chapter
+l.147 \chapter
               {WstÄ™p} [2
 
 ]
@@ -901,78 +921,153 @@ p.tex") [3] [4
 
 ]
 Chapter 3.
-[5] [6
+<figs/plan.pdf, id=460, 597.55246pt x 845.07718pt>
+File: figs/plan.pdf Graphic file (type pdf)
+ <use figs/plan.pdf>
+Package pdftex.def Info: figs/plan.pdf used on input line 151.
+(pdftex.def)             Requested size: 479.71269pt x 450.01411pt.
+ [5 <C:/Users/O/Desktop/Moje dokumenty/GitHub/book/ksiazka konferencyjna/figs/p
+lan.pdf>] [6
 
 ]
 Chapter 4.
+<figs/plan_warsztaty.pdf, id=496, 597.55246pt x 845.07718pt>
+File: figs/plan_warsztaty.pdf Graphic file (type pdf)
+
+<use figs/plan_warsztaty.pdf>
+Package pdftex.def Info: figs/plan_warsztaty.pdf used on input line 154.
+(pdftex.def)             Requested size: 479.71269pt x 450.01411pt.
+ [7 <C:/Users/O/Desktop/Moje dokumenty/GitHub/book/ksiazka konferencyjna/figs/p
+lan_warsztaty.pdf>] [8
+
+]
+Chapter 5.
 
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /01_Biecek.tex"
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 6.
+
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 21.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 18.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Overfull \hbox (6.46127pt too wide) in paragraph at lines 27--28
-\T1/ptm/m/n/10.95 do±wiad-cze« doty-cz¡-cych wiz-ual-iza-cji struk-tury mod-elu
- (Wick-ham, Hadley, Di-anne Cook,
+Overfull \hbox (16.25087pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 do prezen-tacji mod-eli statysty-cznych (rms, forest-model an
+d reg-tools, survminer, ggRandom-
  []
 
-) [7]
+
+Overfull \hbox (4.62592pt too wide) in paragraph at lines 29--30
+[]\T1/ptm/m/n/10 W pracy naukowej in-tere-suje si¦ tech-nikami mod-e-lowa-nia w
+ysokowymi-arowych danych (testowa-
+ []
+
+
+Overfull \hbox (4.34613pt too wide) in paragraph at lines 31--32
+[]\T1/ptm/m/n/10 Jest au-torem trzech pop-u-larnych po-dr¦czników aka-demic-kic
+h po±wi¦-conych pro-gramowi R (Prze-
+ []
+
+) [9]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/02_Bogdan.tex") [8]
+/02_Bogdan.tex") [10]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/03_Brzezinska.tex") [9]
+/03_Brzezinska.tex"
+Overfull \hbox (18.74681pt too wide) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 Metody wiz-ual-iza-cji danych jako±-ciowych w pro-gramie
+ []
+
+
+Overfull \hbox (10.34671pt too wide) in paragraph at lines 30--31
+\T1/ptm/m/n/10 Gospo-dar-czych i Fi-nan-sowych na Wydziale Fi-nan-sów i Ubez-pi
+ecze« Uni-w-er-sytetu Eko-nomicznego
+ []
+
+
+Overfull \hbox (12.83655pt too wide) in paragraph at lines 30--31
+\T1/ptm/m/n/10 w Ka-tow-icach. Kierowaªa grantem Nar-o-dowego Cen-trum Nauki pn
+. Mod-ele log-a-ryt-micznoliniowe
+ []
+
+
+Overfull \hbox (9.08624pt too wide) in paragraph at lines 32--33
+[]\T1/ptm/m/n/10 Jest au-tork¡ ponad trzy-dzi-estu pub-likacji naukowych, gªówn
+ie w j¦zyku ang-iel-skim w presti»owych
+ []
+
+[11]) [12]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/04_Burzykowski.tex") [10]
+/04_Burzykowski.tex"
+Overfull \hbox (3.0453pt too wide) in paragraph at lines 28--29
+[]\T1/ptm/m/n/10 Pracuje jako pro-fe-sor biostatystyki/bioinformatyki na Uni-w-
+er-syte-cie Has-selt oraz jako wi-ceprezes
+ []
+
+) [13]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /05_Eder.tex"
+Overfull \hbox (21.7012pt too wide) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 Kim naprawd¦ byª Gall Anonim? Za-gad-nienia statysty-
+ []
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 6.
+) [14]
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/06_Jakuczun.tex") [15]
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/07_Ramsza.tex"
+Overfull \hbox (0.67632pt too wide) in paragraph at lines 31--32
+[]\T1/ptm/m/n/10 Obecnie pracuje jako pro-fe-sor ekonomii matem-aty-cznej w Szk
+ole Gªównej Hand-lowej w Warsza-
+ []
 
-) [11]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/06_Jakuczun.tex") [12]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/07_Ramsza.tex") [13]
+
+Overfull \hbox (7.49619pt too wide) in paragraph at lines 31--32
+\T1/ptm/m/n/10 sek-torów. Jego gªówne zain-tere-sowa-nia zwi¡zane s¡ z teori¡ g
+ier oraz anal-iz¡ sys-temów zªo»onych. 
+ []
+
+) [16]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /08_Suchwalko.tex"
-Overfull \hbox (2.44298pt too wide) in paragraph at lines 29--30
+Overfull \hbox (5.63031pt too wide) in paragraph at lines 26--27
 []\T1/ptm/m/n/10.95 Predykcj¦ mo»na poprawi¢ na ró»ne sposoby, na przykªad popr
 zez wyko-rzys-tanie bardziej
  []
 
 
-Overfull \hbox (6.49417pt too wide) in paragraph at lines 29--30
-\T1/ptm/m/n/10.95 zªo»onych mod-eli, staranny dobór hiper-parametrów, uwzgl¦d-n
-ie-nie kosztów bª¦d-nej klasy-
+Overfull \hbox (19.89624pt too wide) in paragraph at lines 33--34
+\T1/ptm/m/n/10 bioin-for-maty-cznej MedicWave. Od kilku-nastu lat wyko-rzys-tuj
+e w biz-ne-sie dar-mowe opro-gramowanie
  []
 
-) [14]
+) [17]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/09_Szczurek.tex") [15]
+/09_Szczurek.tex") [18]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /10_Wroblewska.tex"
-Overfull \hbox (5.13483pt too wide) in paragraph at lines 26--29
+Overfull \hbox (8.32216pt too wide) in paragraph at lines 23--26
 []\T1/ptm/m/n/10.95 W prezen-tacji pod-sumowu-jemy wspóªprac¦ z Cen-trum Nauki 
 Kopernik (CNK) (Katarzyna
  []
 
 
-Overfull \hbox (11.30121pt too wide) in paragraph at lines 26--29
-\T1/ptm/m/n/10.95 Pot¦ga), Uni-w-er-sytetem Nauk Spoªecznych i Hu-man-isty-czny
-ch (Šukasz Tana±) oraz Wydzi-
+Overfull \hbox (16.65562pt too wide) in paragraph at lines 23--26
+\T1/ptm/m/n/10.95 w CNK. Dane te zostaªy przeanal-i-zowane przez stu-den-tów no
+wej spec-jal-no±ci Przetwarzanie
  []
 
-) [16]
-Chapter 5.
+) [19] [20
+
+]
+Chapter 6.
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 161.
+(hyperref)                be the same. Added a new anchor on input line 178.
 
 
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
@@ -980,101 +1075,149 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 6.
 
-Overfull \hbox (0.24104pt too wide) in paragraph at lines 24--25
+Overfull \hbox (3.42838pt too wide) in paragraph at lines 23--24
 \T1/ptm/m/n/10.95 zadaniem. Pier-wsze wyzwanie to stworze-nie in-ter-fe-jsu u»y
 tkown-ika, który swoim wygl¡-
  []
 
+
+Overfull \hbox (15.3311pt too wide) in paragraph at lines 27--28
+\T1/ptm/m/n/10.95 likowanymi za-le»no±-ci-ami zmi-en-nych reak-ty-wnych. Zademo
+n-stru-jemy ap-likacj¦ i powiemy
+ []
+
 )
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/T02_Rogala.tex" [17
-
-])
+/T02_Rogala.tex" [21])
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /T03_Mlodozeniec.tex"
-Overfull \hbox (16.77858pt too wide) in paragraph at lines 6--6
+Overfull \hbox (19.96591pt too wide) in paragraph at lines 6--6
 |\T1/ptm/b/n/12 Zastosowanie paki-etu Shiny do tworzenia in-ter-ak-ty-wnych wiz
 -ual-iza-cji wyników
  []
 
 
-Overfull \hbox (40.26344pt too wide) in paragraph at lines 23--24
+Overfull \hbox (43.45078pt too wide) in paragraph at lines 22--23
 []\T1/ptm/m/n/10.95 Najwi¦kszym ogranicze-niem pop-u-larnych metod wiz-ual-iza-
 cji wyników bada« eye-trackingowych,
  []
 
 
-Overfull \hbox (0.37286pt too wide) in paragraph at lines 23--24
-\T1/ptm/m/n/10.95 wymaga za-s-tosowa-nia spec-jal-isty-cznych pro-gramów, w któ
-rych wygen-erowanie an-i-macji
+Overfull \hbox (0.32971pt too wide) in paragraph at lines 22--23
+\T1/ptm/m/n/10.95 tworze-nie w prosty sposób in-ter-ak-ty-wnych ap-likacji, któ
+re nie tylko pozwalaj¡ na ±ledze-
+ []
+
+
+Overfull \hbox (10.27226pt too wide) in paragraph at lines 22--23
+\T1/ptm/m/n/10.95 his-torii przeszuki-wa-nia wzrokowego, ale równie» daj¡ mo»li
+-wo±¢ reg-u-lowa-nia parametrów
  []
 
 )
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/T04_Potocka.tex" [18])
+/T04_Potocka.tex")
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/T05_Sobczyk.tex"
-Overfull \hbox (0.99722pt too wide) in paragraph at lines 24--25
+/T05_Sobczyk.tex" [22]
+Overfull \hbox (4.18456pt too wide) in paragraph at lines 23--24
 \T1/ptm/m/n/10.95 Opowiem o niepod-sta-wowych za-s-tosowa-ni-ach gg-plot2, któr
 y jest na-jbardziej pop-u-larnym
  []
 
 
-Overfull \hbox (2.57346pt too wide) in paragraph at lines 24--25
+Overfull \hbox (5.76079pt too wide) in paragraph at lines 23--24
 \T1/ptm/m/n/10.95 paki-etem do tworzenia grafiki w R. Jego za-let¡ jest to, »e 
 wystar-cz¡ je-dynie dwie komendy
  []
 
-)
+) [23]
+Overfull \hbox (4.34709pt too wide) in paragraph at lines 186--187
+\T1/ptm/m/n/10.95 PwC to czwarta na-jsil-niejsza marka ±wiata wedªug bada-nia B
+rand Fi-nance, a jed-nocze±nie
+ []
+
+
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MS01_Wojcik.tex"
-Overfull \hbox (2.21127pt too wide) in paragraph at lines 6--6
-|\T1/ptm/b/n/12 Modelowanie dy-namiki rozkªadu w R. Za-s-tosowanie do anal-izy 
-kon-wer-gencji
+/PC01_Pitera.tex"
+Overfull \hbox (7.31471pt too wide) in paragraph at lines 190--3
+[]\T1/ptm/m/n/10.95 W Polsce PwC za-trud-nia ze-spóª blisko 3 500 pra-cown-ików
+ w o±miu mi-as-tach: w Gda«sku,
  []
 
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
-[19]
-Overfull \hbox (4.15053pt too wide) in paragraph at lines 24--25
+)
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/PC02_Kosinski.tex"
+Overfull \hbox (13.39323pt too wide) in paragraph at lines 23--24
+[]\T1/ptm/m/n/10.95 Podczas wys-t¡pi-enia przed-staw-iony zostanie ty-powy prob
+-lem anal-izy koszykowej i wpªywu
+ []
+
+) [24]
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/PC03_Kosinski.tex") [25]
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/MS01_Wojcik.tex"
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 6.
+
+
+Overfull \hbox (7.33786pt too wide) in paragraph at lines 23--24
 \T1/ptm/m/n/10.95 cyjnych, stopy bezrobo-cia, pref-er-encji poli-ty-cznych, wie
 lko±ci spo»y-cia lodów itp.) cz¦sto
  []
 
 
-Overfull \hbox (2.33362pt too wide) in paragraph at lines 28--29
-\T1/ptm/m/n/10.95 warunk-owego es-ty-ma-tora g¦s-to±ci za po-moc¡ jed-nowymi-ar
-owego rozkªadu er-gody-cznego
+Overfull \hbox (4.77585pt too wide) in paragraph at lines 27--28
+\T1/ptm/m/n/10.95 pokazanie jak ró»ne pode-j±-cia do mod-e-lowa-nia dy-namiki r
+ozkªadu mog¡ by¢ za-s-tosowane
  []
 
 
-Overfull \hbox (0.79909pt too wide) in paragraph at lines 30--31
+Overfull \hbox (3.98642pt too wide) in paragraph at lines 29--30
 []\T1/ptm/m/n/10.95 Przedstawimy tak»e czytelne i atrak-cyjne sposoby wiz-ual-i
 za-cji wyników es-ty-macji. Prak-
  []
 
 )
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MS02_Dyderski.tex" [20])
+/MS02_Dyderski.tex"
+Underfull \vbox (badness 2735) has occurred while \output is active []
+
+ [26]
+Overfull \hbox (3.18718pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 wiekiem drzewa. Dz-i¦ki zna-jo-mo±ci zmian ±red-nicy drzewa i
+ al-lom-e-trycznych za-le»no±ci
+ []
+
+)
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MS03_Nowacki.tex")
+/MS03_Nowacki.tex"
+Overfull \hbox (3.19931pt too wide) in paragraph at lines 24--25
+[]\T1/ptm/m/n/10.95 Przedstawienie wyników anal-izy wyd¹wi¦ku artykuªów z Parki
+-etu z lat 2000-2017(ponad
+ []
+
+)
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MS04_Slomczynski.tex" [21])
+/MS04_Slomczynski.tex" [27])
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MS05_Grala.tex")
+/MS05_Grala.tex") [28]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /MR01_Ochotny.tex"
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
-[22])
+)
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /MR02_Wrobel.tex")
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/MR03_Kowalczyk.tex" [23])
+/MR03_Kowalczyk.tex" [29]) [30]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /BIO01_Stankiewicz.tex"
 
@@ -1084,48 +1227,69 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 )
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /BIO02_Gosiewska.tex"
-Overfull \hbox (3.93185pt too wide) in paragraph at lines 24--25
-\T1/ptm/m/n/10.95 mo»na dokony-wa¢ wiz-ual-iza-cji wyników otrzy-manych przy u»
-y-ciu testów statysty-cznych. 
+Overfull \hbox (2.47581pt too wide) in paragraph at lines 23--25
+\T1/ptm/m/n/10.95 izy i wiz-ual-iza-cji danych doty-cz¡-cych ek-spresji genów o
+raz mety-lacji DNA. Kluc-zowymi
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 26.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+)
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/BIO03_Dabrowska.tex")
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/BIO04_Kosinski.tex" [31]
+Overfull \hbox (5.00583pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 di-ag-nos-tyki i sprawdzenia za-ªo»e« mod-elu Coxa pro-por-cj
+on-al-nych haz-ardów - na-jbardziej
  []
 
 )
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIO03_Dabrowska.tex" [24])
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIO04_Kosinski.tex")
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIO05_Oles.tex")
+/BIO05_Oles.tex"
+Overfull \hbox (0.11105pt too wide) in paragraph at lines 24--25
+\T1/ptm/m/n/10.95 ma-cje przestrzenne oraz fil-trowanie. Na przykªadzie mikrosk
+opowych obrazów komórek
+ []
+
+) [32]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /BIZ01_Olszewski.tex"
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
-
-Underfull \vbox (badness 6725) has occurred while \output is active []
-
- [25])
+)
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /BIZ02_Skrzydlo.tex"
-Overfull \hbox (0.15425pt too wide) in paragraph at lines 24--25
+Overfull \hbox (12.26532pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 pro-gramistów? Czy mo»e to za-j¦-cie tylko dla wybranych, któ
+rzy przy-wdziewa-j¡c flanelowe
+ []
+
+
+Overfull \hbox (3.34158pt too wide) in paragraph at lines 23--24
 \T1/ptm/m/n/10.95 koszule tworz¡ narz¦dzia jak na-jbardziej podobne do znanych 
 i lu-bianych softów? Krótka
  []
 
-)
+) [33]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/BIZ03_Zoltak.tex" [26])
+/BIZ03_Zoltak.tex")
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /BIZ04_Jedrzejewski.tex")
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /BIZ05_Martsenyuk.tex"
-Overfull \hbox (4.40671pt too wide) in paragraph at lines 6--6
+Overfull \hbox (7.59404pt too wide) in paragraph at lines 6--6
 |\T1/ptm/b/n/12 Podejmowanie de-cyzji w R - w warunk-ach pewno±ci, ryzyko oraz 
 niepewno±ci| 
  []
 
-[27])
+) [34] [35]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /R01_Potocka.tex"
 
@@ -1134,19 +1298,31 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 
 )
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/R02_Melcer.tex")
+/R02_Melcer.tex"
+Overfull \hbox (3.00224pt too wide) in paragraph at lines 23--24
+[]\T1/ptm/m/n/10.95 Google Sum-mer of Code to pro-gram umo»li-wia-j¡cy sfi-nan-
+sowanie pªat-nych waka-cyjnych
+ []
+
+
+Overfull \hbox (1.91801pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 do ko«-cowych ro-zlicze«. Na co zwró-ci¢ uwag¦, ja-kich prob-
+lemów mo»na si¦ spodziewa¢
+ []
+
+)
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/R04_Bigos.tex" [28])
+/R04_Bigos.tex") [36]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/R05_Kochanski.tex") [29] [30
+/R05_Kochanski.tex") [37] [38
 
 ]
-Chapter 6.
+Chapter 7.
 
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /L01_Chmura.tex"
-Overfull \hbox (7.43132pt too wide) in paragraph at lines 6--6
-\T1/ptm/b/n/20.74 Lasy z in-wazyjnym d¦bem cz-er-wonym w ±wi-
+Overfull \hbox (12.42203pt too wide) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 Lasy z in-wazyjnym d¦bem cz-er-wonym w ±wi-etle analiz
  []
 
 
@@ -1154,21 +1330,23 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
 
-Overfull \hbox (5.05836pt too wide) in paragraph at lines 24--25
-\T1/ptm/m/n/10.95 ade4). Za-s-tosowano anal-iz¦ in-d-Val (in-di-ca-tor value), 
-aby stwierdzi¢ czy s¡ is-totne statysty-
+Overfull \hbox (18.14604pt too wide) in paragraph at lines 23--24
+\T1/ptm/m/n/10.95 lasów. Wylic-zone wska¹niki: bo-gactwa gatunkowego i ró»norod
+-no±ci gatunkowej (wska¹nik
  []
 
-
-Overfull \hbox (7.16264pt too wide) in paragraph at lines 24--25
-\T1/ptm/m/n/10.95 zone wska¹niki: bo-gactwa gatunkowego i ró»norod-no±ci gatunk
-owej (wska¹nik Shannona-
- []
-
-[31])
+)
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /L02_Czernecki.tex"
-Overfull \hbox (47.87218pt too wide) in paragraph at lines 24--26
+Overfull \hbox (20.55942pt too wide) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 FasteR - kiedy warto prze-nie±¢ obliczenia na su-perkom-
+ []
+
+
+Underfull \vbox (badness 1817) has occurred while \output is active []
+
+ [39]
+Overfull \hbox (51.05951pt too wide) in paragraph at lines 24--26
 []\T1/ptm/m/n/10.95 W prezen-tacji przed-staw-iono przykªad-owe rozwi¡za-nia (i
  ograniczenia) zwi¡zane z przyspieszaniem
  []
@@ -1178,16 +1356,24 @@ Overfull \hbox (47.87218pt too wide) in paragraph at lines 24--26
 /L03_Bielski.tex")
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /L04_Otmianowski.tex"
-Overfull \hbox (33.37627pt too wide) in paragraph at lines 6--6
-\T1/ptm/b/n/20.74 Uprzyjemnij so-bie gen-erowanie wielu wykresów
+Overfull \hbox (3.82324pt too wide) in paragraph at lines 24--25
+\T1/ptm/m/n/10.95 towego gen-erowa-nia wykresów oraz przetrzymy-wa-nia ich w da
+ta frame'ach, co ogranicza
  []
 
-[32])
+)
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/L05_Lodzikowski.tex")
+/L05_Lodzikowski.tex" [40])
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/L06_Staniak.tex" [33]) [34]
-Chapter 7.
+/L06_Staniak.tex"
+Overfull \hbox (22.89381pt too wide) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 Zawód rodz-ica a edukacja dziecka - wiz-ual-icja wyników
+ []
+
+) [41] [42
+
+]
+Chapter 8.
 
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /P01_Pawlik.tex"
@@ -1196,7 +1382,7 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
 
-Overfull \hbox (16.16356pt too wide) in paragraph at lines 25--26
+Overfull \hbox (19.35089pt too wide) in paragraph at lines 23--24
 []\T1/ptm/m/n/10.95 Wyniki lab-o-ra-to-ryjnych analiz chemicznych i fizy-cznych
  próbek gleb po-branych z poligonów
  []
@@ -1204,39 +1390,37 @@ Overfull \hbox (16.16356pt too wide) in paragraph at lines 25--26
 )
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /P02_Czortek.tex"
-Overfull \hbox (11.537pt too wide) in paragraph at lines 6--6
-\T1/ptm/b/n/20.74 tion of rare moun-tain species Carex lachenalii
+Overfull \hbox (7.82552pt too wide) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 Competition and tourism drive trade-off be-tween veg-
  []
 
 
-Overfull \hbox (2.14555pt too wide) in paragraph at lines 24--25
+Overfull \hbox (5.33289pt too wide) in paragraph at lines 23--24
 []\T1/ptm/m/n/10.95 A re-sult of sex-ual re-pro-duc-tion is long-distance sprea
 d at a meta-population level, whereas
  []
 
-[35
-
-])
+[43])
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /P03_Pawlowska.tex"
-Overfull \hbox (1.58266pt too wide) in paragraph at lines 6--6
-\T1/ptm/b/n/20.74 liczna - dane z liczników row-erów w Warsza-
+Overfull \hbox (12.45605pt too wide) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 Informacja pub-liczna troch¦ bardziej pub-liczna - dane
  []
 
 
-Overfull \hbox (46.39479pt too wide) in paragraph at lines 26--27
-\T1/ptm/m/n/10.95 ciu paki-etu Shiny przy-go-towal-i±my ap-likacj¦ dost¦pn¡ pod
- adresem: http://greenelephant.pl/rowery.
+Overfull \hbox (65.39383pt too wide) in paragraph at lines 25--26
+\T1/ptm/m/n/10.95 u»y-ciu paki-etu Shiny przy-go-towal-i±my ap-likacj¦ dost¦pn¡
+ pod adresem: http://greenelephant.pl/rowery.
  []
 
-[36])
+)
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /P04_Cieslak.tex")
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/P05_Wierzcholska.tex") [37] [38
+/P05_Wierzcholska.tex" [44]) [45] [46
 
 ]
-Chapter 8.
+Chapter 9.
 
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /W01_Szklarczyk.tex"
@@ -1245,280 +1429,253 @@ Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 6.
 
 
-Overfull \hbox (7.55441pt too wide) in paragraph at lines 31--32
+Overfull \hbox (10.74174pt too wide) in paragraph at lines 31--32
 []\T1/ptm/m/n/10 Dobór próby losowej (prostej, warst-wowanej) i wa»e-nie próby 
 (klasy-czne oraz rake weights). 
  []
 
-[39]
-Overfull \hbox (13.30911pt too wide) in paragraph at lines 36--37
-[] \T1/ptm/m/n/10 Za-praszamy wszys-tkie os-oby zain-tere-sowane te-m-atem anal
--izy danych son-da»owych, spoªecznych.
+
+Overfull \hbox (5.54642pt too wide) in paragraph at lines 36--37
+\T1/ptm/m/n/10 Zapraszamy wszys-tkie os-oby zain-tere-sowane te-m-atem anal-izy
+ danych son-da»owych, spoªecznych.
  []
 
-) [40]
+[47]) [48]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /W02_Zoltak.tex"
-Overfull \hbox (4.63101pt too wide) in paragraph at lines 6--6
-\T1/ptm/b/n/20.74 Zªo»one schematy doboru próby - pakiet sur-
+Overfull \hbox (0.66571pt too wide) in paragraph at lines 24--25
+\T1/ptm/m/n/10 szczegól-no±ci w za-kre-sie wielko±ci bª¦dów stan-dar-d-owych (a
+ w kon-sek-wencji is-tot-no±ci statysty-
  []
 
 
-Overfull \hbox (18.14438pt too wide) in paragraph at lines 37--38
+Overfull \hbox (3.07224pt too wide) in paragraph at lines 30--31
+[]\T1/ptm/m/n/10 Typowe zªo»one schematy doboru próby: straty-fikacja, dobór ze
+-spoªowy i wielostop-
+ []
+
+
+Overfull \hbox (21.33171pt too wide) in paragraph at lines 37--38
 []\T1/ptm/m/n/10 Inne mo»li-wo±ci ale w specy-ficznych za-s-tosowa-ni-ach: paki
 -ety intsvy i lavaan.survey. 
  []
 
-[41]
-Overfull \hbox (8.36449pt too wide) in paragraph at lines 54--55
+
+Overfull \hbox (11.55182pt too wide) in paragraph at lines 54--55
 []\T1/ptm/m/n/10 W ja-kich sytu-ac-jach warto uwzgl¦d-nia¢ zªo»ony schemat dobo
 ru próby przy prowadze-
  []
 
-) [42]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W03_Sekiewicz.tex"
-Overfull \hbox (24.26826pt too wide) in paragraph at lines 33--34
-[] \T1/ptm/m/n/10 rvest (wystar-czy za-poz-nanie si¦ z opisem paki-etu i jego z
-rozu-mie-nie, https://github.com/hadley/rvest) 
- []
-
-) [43]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W04_Mazurek.tex") [44]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W05_Grala.tex"
-Overfull \hbox (21.22208pt too wide) in paragraph at lines 6--6
-\T1/ptm/b/n/20.74 MicrosoftML - State of the art Ma-chine Learn-
- []
-
-
-Overfull \hbox (5.49867pt too wide) in paragraph at lines 24--25
-\T1/ptm/m/n/10 lioteka ta jest pod-sumowaniem pracy naukowej Mi-crosoft Re-sear
-ch w za-kre-sie Ma-chine Learningu.
- []
-
-
-Overfull \hbox (9.7886pt too wide) in paragraph at lines 24--25
-\T1/ptm/m/n/10 S¡ tam mi¦dzy in-nymi wyda-jne al-go-rytmy do klasy-fikacji, szu
-ka-nia anoma-lii, czy re-gresji. Dost¦pne
- []
-
-
-Overfull \hbox (19.37952pt too wide) in paragraph at lines 36--37
-[] \T1/ptm/m/n/10 Pod-stawy j¦zyka R, zna-jo-mo±¢ pod-sta-wowych klas prob-lemó
-w i al-go-ryt-mów uczenia maszynowego 
- []
-
-) [45]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W06_Detko.tex") [46]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W07_Maj.tex") [47]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W08_Zawistowski.tex") [48]
-("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W09_Alekseichenko.tex"
-Overfull \hbox (4.25952pt too wide) in paragraph at lines 48--50
-[] \T1/ptm/m/n/10 Warsz-tat mo»e by¢ ciekawy dla osób które dopiero za-czy-naj¡
-, jak i dla ±rednio-zaawansowanych
- []
-
 [49]) [50]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W10_Teisseyre.tex"
-Overfull \hbox (13.77934pt too wide) in paragraph at lines 24--25
-\T1/ptm/m/n/10 chorowal-no±ci (wspóªwys-t¦powanie wielu chorób jed-nocze±nie), 
-przewidy-wanie skutków ubocznych
+/W03_Sekiewicz.tex"
+Overfull \hbox (16.50557pt too wide) in paragraph at lines 33--34
+\T1/ptm/m/n/10 rvest (wystar-czy za-poz-nanie si¦ z opisem paki-etu i jego zroz
+u-mie-nie, https://github.com/hadley/rvest) 
  []
 
 ) [51]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/W04_Mazurek.tex") [52]
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/W05_Grala.tex"
+Overfull \hbox (11.61682pt too wide) in paragraph at lines 36--37
+\T1/ptm/m/n/10 Podstawy j¦zyka R, zna-jo-mo±¢ pod-sta-wowych klas prob-lemów i 
+al-go-ryt-mów uczenia maszynowego 
+ []
+
+) [53]
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/W06_Detko.tex") [54]
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/W07_Maj.tex") [55]
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/W08_Zawistowski.tex") [56]
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/W09_Alekseichenko.tex" [57]) [58]
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
+/W10_Teisseyre.tex"
+Overfull \hbox (16.96667pt too wide) in paragraph at lines 24--25
+\T1/ptm/m/n/10 chorowal-no±ci (wspóªwys-t¦powanie wielu chorób jed-nocze±nie), 
+przewidy-wanie skutków ubocznych
+ []
+
+) [59]
+("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /W11_Ocalewicz.tex"
-Overfull \hbox (0.2085pt too wide) in paragraph at lines 24--25
+Overfull \hbox (3.39583pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 »eby rozsz-erzy¢ swoje umiej¦t-no±ci w za-kre-sie wiz-ual-iza-cj
 i danych i nauczy¢ si¦ tworzy¢ ciekawe
  []
 
 
-Overfull \hbox (2.52837pt too wide) in paragraph at lines 28--29
+Overfull \hbox (5.7157pt too wide) in paragraph at lines 28--29
 []\T1/ptm/m/n/10 W trak-cie warsz-tatu stworzymy kom-pletny doku-ment w for-ma-
 cie html za-w-ier-a-j¡cy pod-sumowanie
  []
 
 
-Overfull \hbox (4.55809pt too wide) in paragraph at lines 30--31
+Overfull \hbox (2.3672pt too wide) in paragraph at lines 28--29
+\T1/ptm/m/n/10 anal-i-zowanych danych oraz stwor-zone przez nas grafiki. Omówim
+y zarówno pod-sta-wowe rodzaje
+ []
+
+
+Overfull \hbox (7.74542pt too wide) in paragraph at lines 30--31
 []\T1/ptm/m/n/10 W trak-cie szkole-nia ka»dy uczest-nik otrzyma wydrukowane '±c
 i¡-gawki' za-w-ier-a-j¡ce na-jwa»niejsze
  []
 
-[52]) [53]
+) [60] [61]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W12_Cwiakowski.tex"
-Overfull \hbox (7.58916pt too wide) in paragraph at lines 24--25
-[] \T1/ptm/m/n/10 Przed-staw-ie-nie za-awan-sowanych funkcji i rozsz-erze« paki
--etu gg-plot2. Po warszta-cie u»ytkownik
- []
-
-) [54]
+/W12_Cwiakowski.tex") [62]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /W13_Dyderski.tex"
-Overfull \hbox (10.71933pt too wide) in paragraph at lines 24--25
-[] \T1/ptm/m/n/10 Warsz-taty za-kªadaj¡ wprowadze-nie do tech-nik or-dy-nacji -
- uporz¡d-kowa-nia punk-tów w przestrzeni
+Overfull \hbox (11.67918pt too wide) in paragraph at lines 6--6
+\T1/ptm/b/n/17.28 Wró»enie z punk-tów - or-dy-nacja w ek-splo-racji danych| 
  []
 
 
-Overfull \hbox (2.36873pt too wide) in paragraph at lines 26--27
+Overfull \hbox (2.95663pt too wide) in paragraph at lines 24--25
+\T1/ptm/m/n/10 Warsztaty za-kªadaj¡ wprowadze-nie do tech-nik or-dy-nacji - upo
+rz¡d-kowa-nia punk-tów w przestrzeni
+ []
+
+
+Overfull \hbox (2.90648pt too wide) in paragraph at lines 24--25
+\T1/ptm/m/n/10 cech i re-dukcji wielowymi-arowo±ci do postaci zdat-nej do wyra»
+e-nia za po-moc¡ prostego wykresu.
+ []
+
+
+Overfull \hbox (5.55606pt too wide) in paragraph at lines 26--27
 []\T1/ptm/m/n/10 Celem warsz-tatów jest wskazanie mo»li-wo±ci za-s-tosowa-nia p
 od-sta-wowych tech-nik or-dy-na-cyjnych
  []
 
-[55]
-Overfull \hbox (15.47816pt too wide) in paragraph at lines 49--50
-[] \T1/ptm/m/n/10 Pod-sta-wowa zna-jo-mo±¢ R: op-er-acje na data.frame'ach, mac
-ierzach i lis-tach, umiej¦t-no±¢ tworzenia
+
+Overfull \hbox (7.71547pt too wide) in paragraph at lines 49--50
+\T1/ptm/m/n/10 Podstawowa zna-jo-mo±¢ R: op-er-acje na data.frame'ach, macierza
+ch i lis-tach, umiej¦t-no±¢ tworzenia
  []
 
-) [56]
+[63]) [64]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W14_Migdal.tex"
-Overfull \hbox (0.58609pt too wide) in paragraph at lines 6--6
-\T1/ptm/b/n/20.74 mirt: skalowanie odpowiedzi lep-sze ni» PCA| 
- []
-
-) [57]
+/W14_Migdal.tex") [65]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /W15_Wojtasiewicz.tex"
-Overfull \hbox (20.77823pt too wide) in paragraph at lines 24--25
-[] \T1/ptm/m/n/10 Celem warsz-tatu jest za-z-na-jomie-nie uczest-ników z tem-at
-yk¡ anal-izy danych w sieci-ach spoªecznych.
+Overfull \hbox (13.01553pt too wide) in paragraph at lines 24--25
+\T1/ptm/m/n/10 Celem warsz-tatu jest za-z-na-jomie-nie uczest-ników z tem-atyk¡
+ anal-izy danych w sieci-ach spoªecznych.
  []
 
 
-Overfull \hbox (2.3575pt too wide) in paragraph at lines 24--25
+Overfull \hbox (5.54483pt too wide) in paragraph at lines 24--25
 \T1/ptm/m/n/10 Dziedz-ina So-cial Net-work Anal-y-sis (SNA) jest teraz jedn¡ z 
 na-jpr¦»niej rozwi-ja-j¡-cych si¦ dziedzin
  []
 
-) [58]
+) [66]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W16_Ryciak.tex") [59]
+/W16_Ryciak.tex") [67]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
 /W17_Zawadzki.tex"
-Overfull \hbox (3.68393pt too wide) in paragraph at lines 39--40
+Overfull \hbox (4.0064pt too wide) in paragraph at lines 24--25
+\T1/ptm/m/n/10 Celem warsz-tatu jest naucze-nie u»ytkown-ików wyko-rzys-ta-nia 
+paki-etu Rcpp pozwala-j¡cego wyko-
+ []
+
+
+Overfull \hbox (6.87126pt too wide) in paragraph at lines 39--40
 []\T1/ptm/m/n/10 Przedstawienie STL - stan-dar-d-owej bib-lioteki sz-ablonów ja
 ko do-datkowych struk-tur danych
  []
 
 
-Overfull \hbox (2.72342pt too wide) in paragraph at lines 40--41
-[]\T1/ptm/m/n/10 Praktyczne prezen-tacja mod-eli zarz¡dza-nia pami¦-ci¡ w C++ -
- stworze-nie kilku mini-funkcji
- []
-
-
-Overfull \hbox (10.8436pt too wide) in paragraph at lines 46--47
+Overfull \hbox (14.03093pt too wide) in paragraph at lines 46--47
 []\T1/ptm/m/n/10 Stworzenie prostego sam-plera Gibbsa wyko-rzys-tu-j¡cego Rcp-p
 Ar-madillo i funkcje R dost¦pne
  []
 
-[60]
-Overfull \hbox (1.01782pt too wide) in paragraph at lines 58--59
-[] \T1/ptm/m/n/10 W przy-padku sys-temu Win-dows po-branie i in-sta-lacja: Rtoo
-ls - na-jnowsza wer-sja (https://cran.r-
- []
-
-) [61]
+[68]) [69]
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\abstracts
-/W18_Tartanus.tex"
-Overfull \hbox (4.8389pt too wide) in paragraph at lines 28--29
-[] \T1/ptm/m/n/10 Pod-sta-wowa zna-jo-mo±¢ R - op-er-acje na wek-torach, tworze
--nie ich oraz zna-jo-mo±¢ ramek danych. 
- []
-
-) [62]
+/W18_Tartanus.tex") [70]
 runsystem(makeindex a.idx)...executed (allowed).
 
 
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\a.ind")
-[63
+[71
 
 
 
-] [64
+] [72
 
 ]
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf>
-Package pdftex.def Info: figs/okladka.pdf used on input line 266.
+Package pdftex.def Info: figs/okladka.pdf used on input line 293.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf>
-Package pdftex.def Info: figs/okladka.pdf used on input line 266.
+Package pdftex.def Info: figs/okladka.pdf used on input line 293.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 266.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 293.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 266.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 293.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
- [65
+ [73
 
 ]
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 266.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 293.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
 File: figs/okladka.pdf Graphic file (type pdf)
  <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 266.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 293.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
 File: figs/okladka.pdf Graphic file (type pdf)
 
 <use figs/okladka.pdf, page 1>
-Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 266.
+Package pdftex.def Info: figs/okladka.pdf, page1 used on input line 293.
 (pdftex.def)             Requested size: 501.22945pt x 708.8542pt.
- [66]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
+ [74]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 295.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 295.
 
 ("C:\Users\O\Desktop\Moje dokumenty\GitHub\book\ksiazka konferencyjna\ksiazka.a
 ux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 268.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 268.
-
-
-Package rerunfilecheck Warning: File `ksiazka.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ksiazka.out':
-(rerunfilecheck)             Before: 00BEAA7CF4F0CDA5D14FC622DC66BF39;7690
-(rerunfilecheck)             After:  EBB40E475FB82CE78C46B4AE7ED34DE5;7684.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 268.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 295.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 295.
+Package rerunfilecheck Info: File `ksiazka.out' has not changed.
+(rerunfilecheck)             Checksum: 1B44467CD54F9FB8AE3F97AA4B636E6D;8055.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 295.
  ) 
 Here is how much of TeX's memory you used:
- 9667 strings out of 493921
- 145801 string characters out of 3144888
- 238488 words of memory out of 3000000
- 12344 multiletter control sequences out of 15000+200000
- 46629 words of font info for 78 fonts, out of 3000000 for 9000
+ 9999 strings out of 493921
+ 151858 string characters out of 3144888
+ 244732 words of memory out of 3000000
+ 12650 multiletter control sequences out of 15000+200000
+ 47788 words of font info for 79 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,18n,48p,2177b,595s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,18n,48p,2177b,628s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)
-/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
-/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/urw/times/utmri8a.pfb>
-Output written on ksiazka.pdf (74 pages, 403947 bytes).
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on ksiazka.pdf (82 pages, 1159055 bytes).
 PDF statistics:
- 901 PDF objects out of 1000 (max. 8388607)
- 222 named destinations out of 1000 (max. 500000)
- 695 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1014 PDF objects out of 1200 (max. 8388607)
+ 229 named destinations out of 1000 (max. 500000)
+ 749 words of extra memory for PDF output out of 10000 (max. 10000000)
 

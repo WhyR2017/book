@@ -1,9 +1,9 @@
 \documentclass[11pt,twoside,b5paper]{book}
 
-\usepackage[b5paper,margin=2cm,innermargin=2cm]{geometry}
+\usepackage[b5paper,tmargin=1cm,bmargin=1.5cm, innermargin=2cm]{geometry}
 
 \usepackage{fancyhdr}
-\pagestyle{fancy}
+\pagestyle{plain}
 \fancyhf{}
 
 \fancypagestyle{mainmatter}{
@@ -13,6 +13,7 @@
 }
 
 \usepackage{emptypage}
+\usepackage{enumitem}
 
 \usepackage{subfiles}
 \usepackage{hyperref}
@@ -21,6 +22,7 @@
 \usepackage{longtable} 
 \usepackage{pdflscape} 
 \usepackage{afterpage}
+\usepackage{parskip}
 
 \usepackage{imakeidx}
 \makeindex[name=a,title=Indeks nazwisk,intoc=true]
@@ -47,19 +49,22 @@
 \newcommand{\atitle}[1]{\begin{center}{\bf \LARGE #1}\end{center}}
 \newcommand{\affiliations}{\footnotesize\centering}
 \newcommand{\keywords}{\paragraph{Keywords:}}
-\newcommand{\opiswarsztatu}{\paragraph{Opis warsztatu\\}\noindent \small}
-\newcommand{\planwarsztatu}{\paragraph{Plan warsztatu}\small}
-\newcommand{\pakiety}{\paragraph{Wymagane pakiety\\}\noindent \small}
-\newcommand{\umiejetnosci}{\paragraph{Wymagane od uczestników umiejętności i wiedza\\}\noindent \small}
-\newcommand{\wymagania}{\paragraph{Wymagania wstępne do wykonania przed warsztatem\\}\noindent \small}
-\newcommand{\packages}{\paragraph{R packages:}}
-\newcommand{\bio}{\paragraph{Bio\\}\noindent \small}
+\newcommand{\opiswarsztatu}{\subsubsection{Opis warsztatu}\noindent \small}
+\newcommand{\planwarsztatu}{\subsubsection{Plan warsztatu}\small}
+\newcommand{\pakiety}{\subsubsection{Wymagane pakiety}\noindent \small}
+\newcommand{\umiejetnosci}{\subsubsection{Wymagane od uczestników umiejętności i wiedza}\noindent \small}
+\newcommand{\wymagania}{\subsubsection{Wymagania wstępne do wykonania przed warsztatem}\noindent \small}
+\newcommand{\packages}{\subsubsection{R packages:}}
+\newcommand{\bio}{\subsubsection{Bio} \small}
 
-\newcommand{\mychapter}[1]{\chapter{#1} \newpage}
+
+\renewcommand*\contentsname{Spis treści}
+
+\newcommand{\mychapter}[1]{\chapter{#1} \title{#1} \newpage}
 
 \usepackage{titlesec}
 \titleformat{\chapter}[display]   
-{\normalfont\Huge\bfseries}{\chaptertitlename\ \thechapter}{80pt}{\huge}   
+{\normalfont\Huge\bfseries}{\chaptertitlename\ \thechapter}{80pt}{\LARGE}   
 \titlespacing*{\chapter}{0pt}{0pt}{0pt}
 
 \providecommand{\tightlist}{%
@@ -74,13 +79,14 @@
 {\normalfont\bfseries}{}{0pt}{\huge}
 
 \titleformat{\section}[block]
-{\huge\bfseries}{}{0pt}{\titlerule\\}[\vspace{2pt}\titlerule]
+{\LARGE\bfseries}{}{0pt}{\titlerule\\}[\vspace{2pt}\titlerule]
 
+\titlespacing\subsubsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
 %\titleformat{\section}[block]
 %{\Large\bfseries\filcenter}{}{1em}{}
 
 \setcounter{secnumdepth}{0}
-\setcounter{tocdepth}{3}
+\setcounter{tocdepth}{2}
 
 \title{Konferencja Why R?}
 \author{Warszawa, 27-29 września 2017}
@@ -97,7 +103,11 @@
 \maketitle
 
 \begin{small}
+\cleardoublepage
+\pagenumbering{gobble}
 \tableofcontents
+\cleardoublepage
+\pagenumbering{arabic} 
 \end{small}
 
 \mainmatter
@@ -108,7 +118,7 @@
 
 Olga Sulima, \textit{Appsilon}
 
-Przemysław Biecek, \textit{Wydział Matematyki, Informatyki i Mechaniki, Uniwersytet Warszawski}, \textit{Wydział Matematyki i Nauk Informacyjnych, Politechnika Warszawska} 
+Przemysław Biecek, \textit{Uniwersytet Warszawski}, \textit{Politechnika Warszawska}, \textit{MI$^{2}$}
 
 Bartosz Sękiewicz, \textit{HTA Consulting}
 
@@ -116,11 +126,11 @@ Maciej Beręsewicz, \textit{Uniwersytet Ekonomiczny w Poznaniu}
 
 Adolfo Alvarez, \textit{Uniwersytet Adama Mickiewicza w Poznaniu}, \textit{University of Cincinnati}
 
-Alicja Gosiewska, \textit{Wydział Matematyki i Nauk Informacyjnych, Politechnika Warszawska}
+Alicja Gosiewska, \textit{Politechnika Warszawska}, \textit{MI$^{2}$}
 
-Aleksandra Dąbrowska, \textit{Wydział Matematyki, Informatyki i Mechaniki, Uniwersytet Warszawski}
+Aleksandra Dąbrowska, \textit{Uniwersytet Warszawski}, \textit{MI$^{2}$}
 
-Monika Stępień, \textit{Wydział Biologii, Uniwersytet Warszawski}
+Monika Stępień, \textit{Uniwersytet Warszawski}
 
 Agnieszka Dumania, \textit{SalesBI}
 
@@ -137,9 +147,13 @@ Konrad Więcko, \textit{Samsung}
 \chapter{Wstęp}
 \input{misc/wstep.tex}
 
-\chapter{Plan}
+\chapter{Plan konferencji}
+\noindent\makebox[\textwidth]{\includegraphics[width=1.25\textwidth,trim=0cm 10cm 0cm 0cm,clip]{figs/plan.pdf}}
 
-\mychapter{Wykłady plenarne}{}
+\chapter{Plan warsztatów}
+\noindent\makebox[\textwidth]{\includegraphics[width=1.25\textwidth,trim=0cm 10cm 0cm 0cm,clip]{figs/plan_warsztaty.pdf}}
+
+\chapter{Wykłady plenarne}{}
 \subfile{abstracts/01_Biecek.tex}
 \newpage
 \subfile{abstracts/02_Bogdan.tex}
@@ -167,45 +181,55 @@ Konrad Więcko, \textit{Samsung}
 \subfile{abstracts/T03_Mlodozeniec.tex}
 \subfile{abstracts/T04_Potocka.tex}
 \subfile{abstracts/T05_Sobczyk.tex}
-
+\newpage
 \section{PwC Data Analytics}
+PwC to czwarta najsilniejsza marka świata według badania Brand Finance, a jednocześnie zwycięzca w 3 rankingach Warsaw Busiuness Journal: doradztwa biznesowego, podatkowego oraz usług audytowo- księgowych.
 
+Firma PwC kieruje się w swojej działalności trzema głównymi wartościami: jakością i doskonałością, pracą zespołową oraz przywództwem. Świadczy usługi z zakresu audytu, doradztwa biznesowego, podatkowego i prawnego, jak również w obszarze digital transformation. Jest obecna w 157 krajach zatrudniając ponad 233 tysięcy pracowników na całym świecie.
 
+W Polsce PwC zatrudnia zespół blisko 3 500 pracowników w ośmiu miastach: w Gdańsku, Katowicach, Krakowie, Łodzi, Poznaniu, Rzeszowie, Wrocławiu i Warszawie.
+\subfile{abstracts/PC01_Pitera.tex}
+\subfile{abstracts/PC02_Kosinski.tex}\newpage
+\subfile{abstracts/PC03_Kosinski.tex}
+\newpage
 \section{Statystyka}
 \subfile{abstracts/MS01_Wojcik.tex}
 \subfile{abstracts/MS02_Dyderski.tex}
 \subfile{abstracts/MS03_Nowacki.tex}
 \subfile{abstracts/MS04_Slomczynski.tex}
 \subfile{abstracts/MS05_Grala.tex}
-
+\newpage
 \section{Modelowanie Ryzyka (UBS)}
+UBS jest jedną z największych instytucji finansowych na świecie, z ponad 150-letnią historią. Działalność firmy koncentruje się na trzech głównych obszarach: zarządzaniu majątkiem, zarządzaniu aktywami oraz bankowości inwestycyjnej. Zatrudniamy ponad 60000 osób w ponad 50-ciu krajach. Główna siedziba UBS znajduje się w Szwajcarii, natomiast w biurach w Krakowie i we Wrocławiu pracownicy współpracują w ramach zespołów zlokalizowanych w różnych regionach Europy i świata.
+
+UBS tworzy środowisko ludzi zafascynowanych modelowaniem, którzy chętnie dzielą się swoją wiedzą, a język R jest szeroko używany wewnątrz UBS w obszarze modelowania ryzyka.
 \subfile{abstracts/MR01_Ochotny.tex}
 \subfile{abstracts/MR02_Wrobel.tex}
 \subfile{abstracts/MR03_Kowalczyk.tex}
-
+\newpage
 \section{Biostatystyka}
 \subfile{abstracts/BIO01_Stankiewicz.tex}
 \subfile{abstracts/BIO02_Gosiewska.tex}
 \subfile{abstracts/BIO03_Dabrowska.tex}
 \subfile{abstracts/BIO04_Kosinski.tex}
 \subfile{abstracts/BIO05_Oles.tex}
-
+\newpage
 \section{Biznes}
 \subfile{abstracts/BIZ01_Olszewski.tex}
-\subfile{abstracts/BIZ02_Skrzydlo.tex}
+\subfile{abstracts/BIZ02_Skrzydlo.tex}\newpage
 \subfile{abstracts/BIZ03_Zoltak.tex}
 \subfile{abstracts/BIZ04_Jedrzejewski.tex}
 \subfile{abstracts/BIZ05_Martsenyuk.tex}
-
+\newpage
 \section{Społeczności}
-
-
+Panel dyskusyjny.
+\newpage
 \section{R w działaniu}
 \subfile{abstracts/R01_Potocka.tex}
 \subfile{abstracts/R02_Melcer.tex}
-\subfile{abstracts/R04_Bigos.tex}
+\subfile{abstracts/R04_Bigos.tex}\newpage
 \subfile{abstracts/R05_Kochanski.tex}
-
+\newpage
 \chapter{Lightning Talks}{\LARGE \textit{Sala 107 - Chairman: Marcin Kosiński}}
 \subfile{abstracts/L01_Chmura.tex}
 \subfile{abstracts/L02_Czernecki.tex}
@@ -213,14 +237,14 @@ Konrad Więcko, \textit{Samsung}
 \subfile{abstracts/L04_Otmianowski.tex}
 \subfile{abstracts/L05_Lodzikowski.tex}
 \subfile{abstracts/L06_Staniak.tex}
-
+\newpage
 \chapter{Sesja plakatowa}{\LARGE \textit{Aula Gmachu Fizyki PW}}
 \subfile{abstracts/P01_Pawlik.tex}
 \subfile{abstracts/P02_Czortek.tex}
 \subfile{abstracts/P03_Pawlowska.tex}
 \subfile{abstracts/P04_Cieslak.tex}
 \subfile{abstracts/P05_Wierzcholska.tex}
-
+\newpage
 \chapter{Warsztaty}{}
 \subfile{abstracts/W01_Szklarczyk.tex}
 \newpage
