@@ -24,7 +24,7 @@
 \usepackage{pdflscape} 
 \usepackage{afterpage}
 \usepackage{parskip}
-
+\usepackage{wrapfig}
 \usepackage{graphicx}
 \usepackage{caption}
 \usepackage{subcaption}
@@ -37,7 +37,7 @@
 \usepackage{eurosym}
 \usepackage{amsfonts, amsmath, hanging, hyperref, parskip, times}
 \usepackage[numbers]{natbib}
-\usepackage[pdftex]{graphicx}
+
 \hypersetup{
 	colorlinks,
 	linkcolor=black,
@@ -120,9 +120,8 @@
 
 \chapter*{Komitet organizacyjny}
 \par
-\begin{figure}[h!]
-\includegraphics[width=\linewidth]{img/people/all.png}
-\end{figure}
+\subfile{misc/organizatorzy.tex}
+
 
 
 \chapter*{Wstęp}
@@ -170,6 +169,11 @@
 \subfile{abstracts/T05_Sobczyk.tex}
 \newpage
 \section{PwC Data Analytics}
+\begin{minipage}[t]{0.915\textwidth}
+	\center     
+    \includegraphics[width=100px]{img/PwC_logo_new.png} 
+\end{minipage}
+
 PwC to czwarta najsilniejsza marka świata według badania Brand Finance, a jednocześnie zwycięzca w 3 rankingach Warsaw Busiuness Journal: doradztwa biznesowego, podatkowego oraz usług audytowo- księgowych.
 
 Firma PwC kieruje się w swojej działalności trzema głównymi wartościami: jakością i doskonałością, pracą zespołową oraz przywództwem. Świadczy usługi z zakresu audytu, doradztwa biznesowego, podatkowego i prawnego, jak również w obszarze digital transformation. Jest obecna w 157 krajach zatrudniając ponad 233 tysięcy pracowników na całym świecie.
@@ -187,6 +191,11 @@ W Polsce PwC zatrudnia zespół blisko 3 500 pracowników w ośmiu miastach: w G
 \subfile{abstracts/MS05_Grala.tex}
 \newpage
 \section{Modelowanie Ryzyka (UBS)}
+\begin{minipage}[t]{0.915\textwidth}
+	\center     
+    \includegraphics[width=100px]{img/ubs.png} 
+\end{minipage}
+
 UBS jest jedną z największych instytucji finansowych na świecie, z ponad 150-letnią historią. Działalność firmy koncentruje się na trzech głównych obszarach: zarządzaniu majątkiem, zarządzaniu aktywami oraz bankowości inwestycyjnej. Zatrudniamy ponad 60000 osób w ponad 50-ciu krajach. Główna siedziba UBS znajduje się w Szwajcarii, natomiast w biurach w Krakowie i we Wrocławiu pracownicy współpracują w ramach zespołów zlokalizowanych w różnych regionach Europy i świata.
 
 UBS tworzy środowisko ludzi zafascynowanych modelowaniem, którzy chętnie dzielą się swoją wiedzą, a język R jest szeroko używany wewnątrz UBS w obszarze modelowania ryzyka.
