@@ -39,17 +39,17 @@ vignettes/*.pdf
 
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
-*.aux
-*.lof
-*.log
-*.lot
-*.fls
-*.out
-*.toc
-*.fmt
-*.fot
-*.cb
-*.cb2
+ksiazka_konferencyjna/ksiazka.aux
+ksiazka_konferencyjna/ksiazka.lof
+ksiazka_konferencyjna/ksiazka.log
+ksiazka_konferencyjna/ksiazka.lot
+ksiazka_konferencyjna/ksiazka.fls
+ksiazka_konferencyjna/ksiazka.out
+ksiazka_konferencyjna/ksiazka.toc
+ksiazka_konferencyjna/ksiazka.fmt
+ksiazka_konferencyjna/ksiazka.fot
+ksiazka_konferencyjna/ksiazka.cb
+ksiazka_konferencyjna/ksiazka.cb2
 
 ## Intermediate documents:
 *.dvi
